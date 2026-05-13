@@ -1,0 +1,26 @@
+# Render.com deployment config for Commercial Mortgages Oxford
+# Native Next.js 16 SSR via Render Web Service
+# See https://render.com/docs/yaml-spec
+services:
+  - type: web
+    name: commercialmortgagesoxford
+    runtime: node
+    region: frankfurt
+    plan: free
+    branch: main
+    rootDir: .
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
+      - key: RESEND_TO
+        value: commercialmortgagesbroker@gmail.com
+      - key: SITE_SOURCE
+        value: Commercial Mortgages Oxford Primary Website
+      - key: SITE_TAG
+        value: CommercialMortgagesOxford
+      - key: RESEND_API_KEY
+        sync: false

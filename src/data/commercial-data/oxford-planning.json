@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-05-13",
+  "authority": "oxford-city-council",
+  "count": 24,
+  "applications": [
+    {
+      "ref": "26/01030/FUL",
+      "address": "146 Oxford Road, Cowley, Oxford OX4 2EA",
+      "postcode": "OX4 2EA",
+      "proposal": "Change of use of ground floor from retail (Class E) to dine-in and hot food takeaway (Sui Generis), with demolition of garage and single-storey rear extension on Cowley Road independent F&B parade",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "27/04/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/01001/FUL",
+      "address": "91 London Road, Headington, Oxford OX3 9AF",
+      "postcode": "OX3 9AF",
+      "proposal": "External alterations to existing retail unit, A/C plant and shopfront and signage alterations in the Headington hospital-adjacent retail strip",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "22/04/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00990/FUL",
+      "address": "Osney Yard, Bridge Street, Oxford OX2 0AZ",
+      "postcode": "OX2 0AZ",
+      "proposal": "Replacement of access gates retaining commercial yard use on the Osney Mead industrial fringe west of the city centre",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "21/04/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00925/FUL",
+      "address": "Oxford Science Park, John Smith Drive, Oxford OX4 4GA",
+      "postcode": "OX4 4GA",
+      "proposal": "Oxford Science Park Magdalen College joint venture expansion phase, new Grade A lab and office accommodation supporting Oxford Nanopore and Adaptimmune occupier base",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "10/04/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00845/FUL",
+      "address": "Begbroke Innovation District, Sandy Lane West, Begbroke OX5 1PF",
+      "postcode": "OX5 1PF",
+      "proposal": "Begbroke Innovation District Oxford North scheme, mixed-use innovation campus comprising lab and office accommodation alongside housing, adjacent to the Oxford Science Vale corridor",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "26/03/2026",
+      "portal": "https://planning.cherwell.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00789/FUL",
+      "address": "Westgate Oxford, Queen Street, Oxford OX1 1PE",
+      "postcode": "OX1 1PE",
+      "proposal": "Westgate Oxford anchor unit reconfiguration, new F&B accommodation and tenant mix update on the Land Securities and Crown Estate retail flagship",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/03/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00712/COU",
+      "address": "Cornmarket Street, Oxford OX1 3HA",
+      "postcode": "OX1 3HA",
+      "proposal": "Refurbishment and change of use of central Oxford listed retail building to hotel (Class C1) with retained ground-floor retail and bank accommodation in the prime tourist spine",
+      "type": "COU",
+      "status": "Approved",
+      "received": "31/03/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00658/COU",
+      "address": "Cowley Road, Oxford OX4 1HU",
+      "postcode": "OX4 1HU",
+      "proposal": "Change of use of upper floors above independent Cowley Road retail unit to C4 HMO with shared facilities, common in the East Oxford student HMO belt",
+      "type": "COU",
+      "status": "Approved",
+      "received": "12/03/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00592/FUL",
+      "address": "Templars Square, Cowley Centre, Oxford OX4 3XN",
+      "postcode": "OX4 3XN",
+      "proposal": "Templars Square shopping centre reconfiguration, anchor unit subdivision and new neighbourhood F&B and convenience accommodation in the Cowley district centre",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "28/02/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00510/FUL",
+      "address": "Old Road Campus, Roosevelt Drive, Oxford OX3 7DQ",
+      "postcode": "OX3 7DQ",
+      "proposal": "Oxford University Old Road Campus expansion, additional medical research accommodation adjacent to the Churchill Hospital and Nuffield Department of Medicine",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "13/02/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00445/FUL",
+      "address": "Iffley Road, Oxford OX4 1EQ",
+      "postcode": "OX4 1EQ",
+      "proposal": "Iffley Road sports stadia ancillary scheme, new clubhouse and visitor accommodation supporting Oxford University and Roger Bannister site",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "30/01/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00378/FUL",
+      "address": "Botley Road, Oxford OX2 0AB",
+      "postcode": "OX2 0AB",
+      "proposal": "Botley Road regeneration scheme phase, new district retail and F&B accommodation west of Oxford station with managed residential above",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "16/01/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00312/COU",
+      "address": "Walton Street, Jericho, Oxford OX2 6AH",
+      "postcode": "OX2 6AH",
+      "proposal": "Walton Street Jericho change of use of upper floors of independent retail to managed serviced offices, retaining ground-floor independent F&B in the Jericho retail spine",
+      "type": "COU",
+      "status": "Approved",
+      "received": "02/01/2026",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00245/FUL",
+      "address": "Summertown Parade, Banbury Road, Oxford OX2 7HJ",
+      "postcode": "OX2 7HJ",
+      "proposal": "Summertown parade refurbishment, frontage works and change of use of upper floors to extended independent retail and F&B with managed residential above",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/12/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02892/FUL",
+      "address": "Headington Road, Oxford OX3 7BS",
+      "postcode": "OX3 7BS",
+      "proposal": "Headington hospital-adjacent boutique hotel development, 84-bedroom Class C1 hotel serving John Radcliffe and Churchill Hospital visitors",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "08/12/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02745/FUL",
+      "address": "Marston Road, Oxford OX3 0PR",
+      "postcode": "OX3 0PR",
+      "proposal": "Marston neighbourhood retail scheme, new healthcare and dental practice accommodation alongside convenience retail",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "21/11/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02612/FUL",
+      "address": "Magdalen Road, East Oxford OX4 1RB",
+      "postcode": "OX4 1RB",
+      "proposal": "Magdalen Road independent retail and F&B parade refurbishment, frontage works in the East Oxford independent retail belt",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "07/11/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02478/FUL",
+      "address": "Oxford Castle Quarter, New Road, Oxford OX1 1AY",
+      "postcode": "OX1 1AY",
+      "proposal": "Oxford Castle Quarter leisure and hospitality reconfiguration, additional F&B units in the heritage tourist district",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "24/10/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02345/COU",
+      "address": "Park End Street, Oxford OX1 1HU",
+      "postcode": "OX1 1HU",
+      "proposal": "Park End Street office reconfiguration, change of use of upper floors of professional services building to managed flexible workspace",
+      "type": "COU",
+      "status": "Approved",
+      "received": "10/10/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02212/FUL",
+      "address": "Blackbird Leys Estate Centre, Oxford OX4 6HU",
+      "postcode": "OX4 6HU",
+      "proposal": "Blackbird Leys estate centre regeneration, new district retail, healthcare and community accommodation in the outer Oxford regeneration area",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "26/09/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02078/FUL",
+      "address": "Cowley BMW Plant adjacency, Garsington Road, Oxford OX4 6NL",
+      "postcode": "OX4 6NL",
+      "proposal": "Cowley industrial expansion adjacent to BMW Plant Oxford, new Class B2 light industrial and trade-counter accommodation supporting automotive supply chain",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/09/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01945/FUL",
+      "address": "Harwell Campus, Didcot OX11 0RA",
+      "postcode": "OX11 0RA",
+      "proposal": "Harwell Campus life sciences phase expansion, additional R&D and laboratory accommodation supporting the Rutherford Appleton Laboratory and Diamond Light Source occupier base",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "29/08/2025",
+      "portal": "https://www.southoxon.gov.uk/south-oxfordshire-district-council/planning-and-building/"
+    },
+    {
+      "ref": "25/01812/FUL",
+      "address": "George Street, Oxford OX1 2BE",
+      "postcode": "OX1 2BE",
+      "proposal": "George Street central Oxford restaurant cluster refurbishment, new F&B units in the tourist hospitality spine adjacent to Cornmarket and the Castle Quarter",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "15/08/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01678/FUL",
+      "address": "Banbury Road, Summertown, Oxford OX2 6PR",
+      "postcode": "OX2 6PR",
+      "proposal": "Summertown professional services office scheme, new mid-rise Grade B office accommodation supporting North Oxford professional firm cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "01/08/2025",
+      "portal": "https://public.oxford.gov.uk/online-applications/"
+    }
+  ]
+}
