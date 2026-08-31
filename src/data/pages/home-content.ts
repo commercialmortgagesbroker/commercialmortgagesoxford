@@ -51,7 +51,7 @@ export interface HomeContent {
   };
   testimonials: {
     eyebrow: string;
-    items: Array<{ quote: string; name: string; company: string }>;
+    items: Array<{ type: string; quote: string }>;
   };
   faqs: Array<{ question: string; answer: string }>;
   finalCta: {
@@ -121,26 +121,23 @@ export const homeContent: HomeContent = {
   },
 
   testimonials: {
-    eyebrow: "Recent client feedback",
+    eyebrow: "Indicative scenarios",
     items: [
       {
+        type: "Bank-Beat Refinance",
         quote:
-          "I had been quoted 8.1% by my own bank for the London Road surgery freehold in Headington. The team placed it at 6.85% with a challenger lender, 70% LTV, 20-year term, and walked me through the EBITDA cover model so I knew the deal was sound before legals. No surprises at credit committee.",
-        name: "Dr A. Patel",
-        company: "Practice principal, Headington, Oxford",
+          "An indicative refinance scenario: London Road surgery freehold in Headington, improving on the client's own-bank quote of 8.1% to 6.85% with a challenger lender, 70% LTV over a 20-year term, with full EBITDA cover modelling completed before legals.",
       },
       {
+        type: "Portfolio Refinance",
         quote:
-          "Refinancing four shop-with-flat units off a maturing 5-year fix on Cowley Road in East Oxford. They benchmarked nine lenders, narrowed to three, and got us 65% LTV at 6.95% on a 5-year fix inside a 25-year term. ICR comfortably 145%. Took six weeks start to finish.",
-        name: "S. Khan",
-        company: "Portfolio landlord, Cowley Road, Oxford",
+          "An indicative portfolio refinance scenario: four shop-with-flat units on Cowley Road in East Oxford, with nine lenders benchmarked down to three, securing 65% LTV at 6.95% on a 5-year fix inside a 25-year term (ICR 145%), completing in six weeks.",
       },
       {
+        type: "First-Time Freeholder Purchase",
         quote:
-          "First-time freeholder buying my MOT garage off the landlord on the Cowley industrial belt. They told me upfront which commercial lenders would and would not touch a single-asset trading business, saved me three weeks of chasing. Completed inside seven weeks with a high-street challenger.",
-        name: "J. Hardcastle",
-        company: "MOT garage owner, Cowley, Oxford",
-      },
+          "An indicative first-time-freeholder scenario: buying my MOT garage off the landlord on the Cowley industrial belt, with upfront guidance on which lenders would touch a single-asset trading business, completing inside seven weeks with a high-street challenger.",
+      }
     ],
   },
 
