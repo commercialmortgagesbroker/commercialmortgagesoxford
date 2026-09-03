@@ -9,7 +9,7 @@ const loc = siteConfig.locationName;
 
 export const metadata: Metadata = {
   title: `${loc} Commercial Mortgage Case Studies | Owner-Occupier, Investment, Trading-Business, Life Sciences`,
-  description: `Real ${loc} commercial mortgage case studies, owner-occupier, investment, semi-commercial, trading-business and portfolio refinance deals across Oxford Science Park, Headington, Cowley, Cornmarket, Jericho, Westgate, Walton Street, Iffley Road and Summertown.`,
+  description: `Illustrative ${loc} commercial mortgage scenarios, owner-occupier, investment, semi-commercial, trading-business and portfolio refinance deals across Oxford Science Park, Headington, Cowley, Cornmarket, Jericho, Westgate, Walton Street, Iffley Road and Summertown.`,
   alternates: { canonical: `https://${siteConfig.domain}/case-studies` },
 };
 
@@ -25,11 +25,11 @@ export default function CaseStudiesPage() {
               {loc} Commercial Mortgage Case Studies
             </h1>
             <p className="mt-6 text-xl leading-relaxed text-gray-300">
-              Representative {loc} commercial mortgages we&apos;ve placed
-              recently across life-sciences investment, owner-occupier
-              freehold, trading-business, semi-commercial and portfolio
-              refinance. Product type, lender, pricing and the reason the
-              file landed where it did.
+              Illustrative {loc} commercial mortgage scenarios across
+              life-sciences investment, owner-occupier freehold,
+              trading-business, semi-commercial and portfolio refinance.
+              Product type, lender, pricing and the reason the file would
+              land where it did.
             </p>
           </div>
         </div>
@@ -69,14 +69,18 @@ export default function CaseStudiesPage() {
                         </li>
                       ))}
                     </ul>
+                    <p className="mt-4 border-t border-gray-100 pt-3 text-xs uppercase tracking-wider text-gray-500">
+                      Illustrative example — not a completed transaction
+                    </p>
                   </div>
                 </ScrollReveal>
               ))}
             </div>
             <p className="mt-8 text-xs text-gray-500">
-              Case studies are representative examples. Names and identifying
-              detail are anonymised at the borrower&apos;s request. Lender
-              attributions reflect deals placed within the past 24 months.
+              These are illustrative scenarios built from typical {loc} deal
+              structures and current panel pricing, not records of specific
+              completed transactions. Names, addresses and figures are
+              composite and do not identify any borrower.
             </p>
           </div>
         </div>

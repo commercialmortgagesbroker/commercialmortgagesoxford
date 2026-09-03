@@ -99,8 +99,8 @@ export const homeContent: HomeContent = {
   },
 
   caseStudies: {
-    eyebrow: "Recent placements",
-    h2: "Real Oxford commercial mortgage deals: every finance option, every lender, real numbers.",
+    eyebrow: "Illustrative scenarios",
+    h2: "Typical Oxford commercial mortgage scenarios: real lenders, real pricing, illustrative deals.",
     items: [
       {
         name: "Oxford Science Park lab investment refinance",
@@ -233,7 +233,7 @@ export const homeContent: HomeContent = {
     {
       question: "Why use an Oxford commercial mortgage broker rather than going direct to my own bank?",
       answer:
-        'Two reasons. First, even your strongest high-street relationship prices within their own credit policy, and they do not benchmark you against the rest of the market. We do, every deal, every time. We act as a credit broker, not a lender. Second, the deals high-street desks decline (semi-commercial, trading-business, stretched LTV, sector-specific covenants, life sciences and lab investment) often place comfortably with a challenger or specialist at sensible rates and terms, but you have to know which desk to ring on the day. With 250M-plus arranged across a deep range of commercial lenders, that is our entire job as commercial mortgage brokers covering Oxford. If looking for a commercial mortgage in Oxford and the numbers do not work, we say so up front.',
+        'Two reasons. First, even your strongest high-street relationship prices within their own credit policy, and they do not benchmark you against the rest of the market. We do, every deal, every time. We act as a credit broker, not a lender. Second, the deals high-street desks decline (semi-commercial, trading-business, stretched LTV, sector-specific covenants, life sciences and lab investment) often place comfortably with a challenger or specialist at sensible rates and terms, but you have to know which desk to ring on the day. With £400M-plus arranged across a deep range of commercial lenders, that is our entire job as commercial mortgage brokers covering Oxford. If looking for a commercial mortgage in Oxford and the numbers do not work, we say so up front.',
     },
   ],
 
