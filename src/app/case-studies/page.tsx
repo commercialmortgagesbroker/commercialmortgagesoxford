@@ -28,7 +28,7 @@ export default function CaseStudiesPage() {
               Illustrative {loc} commercial mortgage scenarios across
               life-sciences investment, owner-occupier freehold,
               trading-business, semi-commercial and portfolio refinance.
-              Product type, lender, pricing and the reason the file would
+              Product type, lender type and the reason the file would
               land where it did.
             </p>
           </div>
@@ -70,7 +70,7 @@ export default function CaseStudiesPage() {
                       ))}
                     </ul>
                     <p className="mt-4 border-t border-gray-100 pt-3 text-xs uppercase tracking-wider text-gray-500">
-                      Illustrative example — not a completed transaction
+                      Illustrative example: not a completed transaction
                     </p>
                   </div>
                 </ScrollReveal>
@@ -78,7 +78,7 @@ export default function CaseStudiesPage() {
             </div>
             <p className="mt-8 text-xs text-gray-500">
               These are illustrative scenarios built from typical {loc} deal
-              structures and current market pricing, not records of specific
+              structures and typical market conditions, not records of specific
               completed transactions. Names, addresses and figures are
               composite and do not identify any borrower.
             </p>

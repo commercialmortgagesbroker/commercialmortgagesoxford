@@ -197,7 +197,7 @@ export default function HomePage() {
                     {cs.facility}
                   </p>
                   <p className="mt-4 border-t border-[color:var(--color-paper)]/10 pt-3 text-[10px] uppercase tracking-[0.18em] text-[color:var(--color-paper)]/50">
-                    Illustrative example — not a completed transaction
+                    Illustrative example: not a completed transaction
                   </p>
                 </div>
               </ScrollReveal>
@@ -232,7 +232,7 @@ export default function HomePage() {
                     {t.quote}
                   </blockquote>
                   <p className="mt-6 border-t border-[color:var(--color-rule)] pt-4 text-xs uppercase tracking-wider text-[color:var(--color-muted)]">
-                    Illustrative example — not a completed transaction
+                    Illustrative example: not a completed transaction
                   </p>
                 </figure>
               </ScrollReveal>

@@ -105,17 +105,17 @@ export const homeContent: HomeContent = {
       {
         name: "Oxford Science Park lab investment refinance",
         detail: "Single-let lab investment, OX4, 15yr",
-        facility: "4.2M, 65% LTV, 6.75%, NatWest",
+        facility: "4.2M, 65% LTV, high-street bank",
       },
       {
         name: "Headington dental practice owner-occupier",
         detail: "Owner-occupier dental freehold, OX3, 20yr",
-        facility: "1.95M, 70% LTV, 6.85%, Allica",
+        facility: "1.95M, 70% LTV, challenger bank",
       },
       {
         name: "Cowley industrial owner-occupier",
         detail: "Trade-counter warehouse freehold, OX4, 20yr",
-        facility: "2.4M, 65% LTV, 6.55%, Lloyds",
+        facility: "2.4M, 65% LTV, high-street bank",
       },
     ],
   },
@@ -126,12 +126,12 @@ export const homeContent: HomeContent = {
       {
         type: "Bank-Beat Refinance",
         quote:
-          "An indicative refinance scenario: London Road surgery freehold in Headington, improving on the client's own-bank quote of 8.1% to 6.85% with a challenger lender, 70% LTV over a 20-year term, with full EBITDA cover modelling completed before legals.",
+          "An indicative refinance scenario: London Road surgery freehold in Headington, improving on the borrower's own-bank quote with a challenger lender, 70% LTV over a 20-year term, with full EBITDA cover modelling completed before legals.",
       },
       {
         type: "Portfolio Refinance",
         quote:
-          "An indicative portfolio refinance scenario: four shop-with-flat units on Cowley Road in East Oxford, with nine lenders benchmarked down to three, securing 65% LTV at 6.95% on a 5-year fix inside a 25-year term (ICR 145%), completing in six weeks.",
+          "An indicative portfolio refinance scenario: four shop-with-flat units on Cowley Road in East Oxford, with nine lenders benchmarked down to three, securing 65% LTV on a 5-year fix inside a 25-year term (ICR 145%), completing in six weeks.",
       },
       {
         type: "First-Time Freeholder Purchase",

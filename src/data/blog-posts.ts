@@ -304,31 +304,31 @@ We are not FCA-authorised and we do not write regulated mortgage contracts. Wher
 | Semi-commercial (unregulated) | **InterBay Commercial**, Aldermore, YBS Commercial, Together | up to 75% | 7.5–9.5% pa |
 | Regulated mixed-use | Refer to regulated broker | n/a | n/a |
 
-## Three Oxford worked examples
+## Three Oxford illustrative examples
 
-### Example 1: Jericho dental practice freehold (owner-occupier)
+### Illustrative example 1: Jericho dental practice freehold (owner-occupier)
 
 Two-partner NHS-mixed dental practice on Cowley Road, OX2, buying the freehold of the corner premises they currently rent. Purchase price £680,000, deposit £170,000 (25%), loan £510,000 over 20 years on a 5-year fix.
 
-Two years of clean accounts show EBITDA of £215,000. Stressed monthly payment at 8.5% notional over 20 years: roughly £4,425/month, or £53,100 pa. EBITDA cover: 4.05x. Comfortably clears the 1.5x test. Pricing landed at 7.1% pa with Hampshire Trust Bank on a 5-year fix.
+Two years of clean accounts show EBITDA of £215,000. Stressed monthly payment at 8.5% notional over 20 years: roughly £4,425/month, or £53,100 pa. EBITDA cover: 4.05x. Comfortably clears the 1.5x test. Pricing landed with a challenger bank on a 5-year fix.
 
-This is a textbook owner-occupier case. Defensive sector, strong cover, clean accounts. Six indicative quotes inside 48 hours, picked Hampshire Trust on rate and turnaround.
+This is a textbook owner-occupier case. Defensive sector, strong cover, clean accounts. Six indicative quotes inside 48 hours, picked a challenger bank on rate and turnaround.
 
-### Example 2: Westgate office let to the buyer's group company (investment with owner-occupier overlay)
+### Illustrative example 2: Westgate office let to the buyer's group company (investment with owner-occupier overlay)
 
 Professional services group buying a 6,200 sqft floor at Westgate, OX1, into a freshly incorporated SPV. The SPV grants a 15-year FRI lease back to the trading subsidiary at a market rent of £155,000 pa. Purchase price £2.1M, loan £1.47M at 70% LTV.
 
-On paper this is commercial investment, single-let office. ICR at 7.5% pa interest-only equivalent: £110,250 pa interest, stressed at 9.0% to £132,300. Rent of £155,000 clears 145% ICR comfortably. **Shawbrook** quoted 7.6% pa on a 5-year fix with personal guarantees from the two beneficial owners.
+On paper this is commercial investment, single-let office. ICR at 7.5% pa interest-only equivalent: £110,250 pa interest, stressed at 9.0% to £132,300. Rent of £155,000 clears 145% ICR comfortably. A challenger bank offered terms on a 5-year fix with personal guarantees from the two beneficial owners.
 
 The structure is doing two jobs: it ring-fences the property in a separate SPV (sale flexibility, succession), and the rent is a deductible expense in the trading-co. The mortgage underwrite treats it as investment because that is what it is. The lender does ask for trading-co accounts as a covenant overlay.
 
-### Example 3: Headington shop with three flats, family in flat 1 (regulated route)
+### Illustrative example 3: Headington shop with three flats, family in flat 1 (regulated route)
 
 OX3, parade off Street Lane. Ground-floor retail let to an established independent, three flats above. Flat 1 is currently let to the borrower's adult son on an AST at market rent. Flats 2 and 3 are open-market ASTs.
 
 Floor area split: retail 38%, residential 62%. The 40% residential threshold is breached, and a family member occupies part of the residential. This case falls inside the FCA regulated mortgage perimeter.
 
-We do not place this. We refer the borrower to a regulated broker. There are workable routes: regulated buy-to-let on a consumer-buy-to-let basis, or restructure so the family member moves out before completion and the loan becomes an unregulated semi-commercial case at **InterBay Commercial** or Aldermore. Either way, the conversation needs to happen on the first call, not at submission.
+We do not place this. We refer the borrower to a regulated broker. There are workable routes: regulated buy-to-let on a consumer-buy-to-let basis, or restructure so the family member moves out before completion and the loan becomes an unregulated semi-commercial case at a specialist lender or challenger bank. Either way, the conversation needs to happen on the first call, not at submission.
 
 ## How to match your case on day one
 
@@ -390,13 +390,13 @@ Purchase price £3.0M, loan £1.95M at 65% LTV interest-only on a 5-year fix. Pa
 
 Annual interest at stressed rate: £1,950,000 x 9.1% = £177,450. Rent £210,000. ICR = £210,000 / £177,450 = 118%.
 
-That fails a 140% threshold. To clear, the borrower needs to either reduce the loan or extend the cover differently. Drop the loan to £1.55M (52% LTV) and stressed interest falls to £141,050, ICR jumps to 149%. **Shawbrook** offered terms at the lower leverage, 7.6% pa, 5-year fix. The lesson: ICR caps the leverage on tight-rent assets, headline LTV is a ceiling not a target.
+That fails a 140% threshold. To clear, the borrower needs to either reduce the loan or extend the cover differently. Drop the loan to £1.55M (52% LTV) and stressed interest falls to £141,050, ICR jumps to 149%. A challenger bank offered terms at the lower leverage, 5-year fix. The lesson: ICR caps the leverage on tight-rent assets, headline LTV is a ceiling not a target.
 
 ## Illustrative example 2: Jericho semi-commercial parade (blended ICR)
 
 OX2, Cowley Road parade. Three units, each with a flat above. Retail rent £58,000 pa combined, residential AST income £42,000 pa combined. Gross blended rent £100,000 pa.
 
-Purchase price £1.25M, loan £900,000 at 72% LTV interest-only on a 5-year fix. Pay rate 8.1% pa, stressed at +1.5% to 9.6%. **InterBay Commercial** is the natural desk.
+Purchase price £1.25M, loan £900,000 at 72% LTV interest-only on a 5-year fix. Pay rate 8.1% pa, stressed at +1.5% to 9.6%. A specialist lender is the natural desk.
 
 Annual interest at stressed rate: £900,000 x 9.6% = £86,400. Blended rent £100,000. ICR = 116%. Marginal at a 145% threshold. The lender applies a haircut to residential income, typically 5%, so usable rent drops to £97,900 and ICR slides further.
 
@@ -416,7 +416,7 @@ DSCR = £285,000 / £259,200 = 110%. Fails a 130% threshold.
 
 To clear, the borrower extends the amortisation to 30 years. Monthly debt-service at 9.4% over 30 years on £2.5M: roughly £20,750/month, £249,000 pa. DSCR climbs to 114%. Still light.
 
-The fix in practice is a combination: leverage drops to £2.1M (55% LTV), amortisation extends to 30 years, monthly debt-service falls to roughly £17,400/month or £208,800 pa. DSCR: 137%. Clears 130%. **Shawbrook** wrote the facility at 7.9% pa on a blanket charge across the four assets.
+The fix in practice is a combination: leverage drops to £2.1M (55% LTV), amortisation extends to 30 years, monthly debt-service falls to roughly £17,400/month or £208,800 pa. DSCR: 137%. Clears 130%. A challenger bank wrote the facility on a blanket charge across the four assets.
 
 DSCR caps leverage harder than ICR on amortising structures. Investors planning portfolio refinances should model DSCR at the stressed rate before they commit to a target loan number.
 
@@ -430,7 +430,7 @@ Monthly debt-service at 9.8% over 25 years on £2.0M: roughly £17,750/month, £
 
 Residential income gets a 5% management/voids haircut, so usable resi income drops to £159,600. Total usable rent: £217,600. DSCR: 102%. Worse.
 
-Resolution: leverage drops to £1.55M (53% LTV). Monthly debt-service falls to roughly £13,750/month, £165,000 pa. DSCR: 132%. Clears the 130% threshold on a mixed-use facility. **Cynergy Bank** wrote the deal at 8.3% pa.
+Resolution: leverage drops to £1.55M (53% LTV). Monthly debt-service falls to roughly £13,750/month, £165,000 pa. DSCR: 132%. Clears the 130% threshold on a mixed-use facility. A challenger bank wrote the deal.
 
 Mixed-use blocks with heavy residential weight are DSCR-bound. The leverage you can actually get is meaningfully tighter than the headline LTV ceiling suggests.
 
@@ -567,9 +567,9 @@ Existing first charge: £2.8M, ending fixed rate next quarter. Refinance target:
 
 EBITDA cover at 8.5% pa stressed to 10.0% over a 20-year amortisation. Monthly debt-service: roughly £28,500/month, £342,000 pa. EBITDA cover: £620,000 / £342,000 = 181%. Comfortably clears a 150% test.
 
-**Shawbrook** quoted 8.4% pa at 65% LTV (£2.93M) on a 5-year fix. Cambridge & Counties quoted 8.6% pa at the bricks-plus-50%-goodwill blend (£2.66M). Hampshire Trust Bank quoted 8.5% pa at 60% LTV (£2.7M). The borrower landed with **Shawbrook** on rate and leverage.
+A challenger bank offered terms at 65% LTV (£2.93M) on a 5-year fix. A challenger bank offered terms at the bricks-plus-50%-goodwill blend (£2.66M). A challenger bank offered terms at 60% LTV (£2.7M). The borrower landed with a challenger bank on rate and leverage.
 
-CQC re-inspection due roughly 10 months post-completion. Flagged to **Shawbrook** at credit, no margin step-up imposed, condition precedent at completion confirmed clean inspection prior.
+CQC re-inspection due roughly 10 months post-completion. Flagged to a challenger bank at credit, no margin step-up imposed, condition precedent at completion confirmed clean inspection prior.
 
 ## Personal guarantee scope and registered manager risk
 
@@ -686,7 +686,7 @@ Existing first charge £1.45M maturing this autumn. Going-concern valuation £2.
 
 Pay rate at 8.6% pa stressed to 10.1% over a 20-year amortisation. Monthly debt-service: roughly £14,750/month, £177,000 pa. EBITDA cover: £415,000 / £177,000 = 2.34x. Clears the 2.0x threshold comfortably.
 
-**Cynergy Bank** quoted 8.65% pa at 65% of going-concern (£1.69M, marginal). Allica's hospitality desk quoted 8.85% pa at the same leverage. ASK Partners offered 9.1% pa at 70% with a slightly faster process. The borrower landed with **Cynergy Bank** on rate, 5-year fix.
+A challenger bank offered terms at 65% of going-concern (£1.69M, marginal). The challenger bank's hospitality desk offered terms at the same leverage. A specialist lender offered terms at 70% with a slightly faster process. The borrower landed with a challenger bank on rate, 5-year fix.
 
 ## Illustrative example 2: Marston pub freehold purchase
 
@@ -696,7 +696,7 @@ Purchase price £1.05M. Going-concern valuation £1.05M with a bricks-and-mortar
 
 Pay rate at 8.9% pa stressed to 10.4% over a 20-year amortisation. Monthly debt-service: roughly £6,000/month, £72,000 pa. EBITDA cover: £165,000 / £72,000 = 2.29x. Clears, but only just on a wet-led case where lenders run the cover tighter.
 
-**Cynergy Bank** declined on the food-to-wet split, wanted to see a food offer in place. ASK Partners quoted 9.25% pa at 60% LTV (£630,000). Allica quoted 9.1% pa at 60% LTV after a site visit to assess the alternative-use story. The borrower landed with Allica at £630,000 on a 5-year fix, with the remaining £50,000 covered by additional cash deposit.
+A challenger bank declined on the food-to-wet split, wanted to see a food offer in place. A specialist lender offered terms at 60% LTV (£630,000). A challenger bank offered terms at 60% LTV after a site visit to assess the alternative-use story. The borrower landed with a challenger bank at £630,000 on a 5-year fix, with the remaining £50,000 covered by additional cash deposit.
 
 Lesson: wet-led freeholds are workable but the leverage caps tighter and the lender pool narrows materially. Plan for 60% LTV rather than 65% on indicative-terms modelling.
 
@@ -846,7 +846,7 @@ Loan target £620,000 (75% LTV). Pay rate at 8.0% pa stressed to 9.5% on an inte
 
 Resolution: leverage reduces to £550,000 (67% LTV). Stressed interest: £52,250. ICR on haircut rent: 152%. Clears.
 
-**InterBay Commercial** quoted 7.95% pa at 67% LTV on a 5-year fix. Aldermore quoted 8.1% pa at the same leverage. YBS Commercial quoted 8.05% pa with a slightly slower process. The borrower landed with **InterBay** on rate.
+A specialist lender offered terms at 67% LTV on a 5-year fix. A challenger bank offered terms at the same leverage. A building society offered terms with a slightly slower process. The borrower landed with a specialist lender on rate.
 
 If at any stage the borrower had said "actually one of the flats is going to my son", the case would have flipped regulated, we would have referred to a regulated broker, and the unregulated lenders above would have been the wrong lenders from day one.
 

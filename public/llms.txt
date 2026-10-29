@@ -1,14 +1,14 @@
 # Commercial Mortgages Oxford
-> Specialist commercial mortgage broker for Oxford, the Oxford science and research cluster and Oxfordshire. Owner-occupier, investment, semi-commercial, portfolio and trading-business commercial mortgages from a 90+ lender panel including Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays and Santander. Indicative terms in 48 hours, completion typically 4 to 8 weeks.
+> Specialist commercial mortgage broker for Oxford, the Oxford science and research cluster and Oxfordshire. Owner-occupier, investment, semi-commercial, portfolio and trading-business commercial mortgages from the high-street, challenger and specialist lenders whose criteria fit the deal. Indicative terms in 48 hours, completion typically 4 to 8 weeks.
 
 ## Content Hierarchy
-- /: Homepage with Oxford market snapshot, live planning pipeline, calculator, lender panel, area grid, case studies, testimonials, FAQ
+- /: Homepage with Oxford market snapshot, live planning pipeline, calculator, lender market overview, area grid, illustrative scenarios, FAQ
 - /services/: Commercial mortgage product hub
 - /property-types/: Coverage by sector
 - /areas/: Oxford sub-areas with commercial planning and market data
 - /calculator/: Commercial mortgage repayment and LTV calculator
 - /blog/: Market commentary and rate insights
-- /case-studies/: Anonymised real deals
+- /case-studies/: Illustrative scenarios (not completed transactions)
 - /about/: Broker bio and credentials
 - /how-it-works/: 5-step process
 - /contact/: Enquiry form
@@ -21,9 +21,8 @@
 - Term: 5 to 25 years
 - LTV: typically 60 to 75% (Oxford supply-tight: lenders trend conservative, 60-70% on investment; semi-commercial up to 75%; trading-business 60 to 70%)
 - Rates (mid-2026): 6.0 to 9.0% pa
-- Lender panel: 90+ lenders
 - Decision time: indicative terms in 48 hours
-- Named lenders: Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays, Santander, plus 80+ others
+- Lender market: high-street banks, challenger banks and specialist lenders whose criteria fit the deal
 
 ## Data
 Each area page contains live local market data:
