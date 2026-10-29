@@ -26,6 +26,97 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "budget-2026-founders-relief-spin-outs-premises-oxford",
+    title: "Founders' Relief, BADR and R&D after Budget 2026: what Oxford founders and spin-outs should think about before buying premises",
+    excerpt:
+      "Budget 2026 introduces a 10% Founders' Relief on up to £10m of gains for founders of high-growth, innovative companies, halves the BADR lifetime limit and simplifies R&D claims. For Oxford science and technology founders, it raises a practical question: if you buy your lab or office, should it sit inside the company or outside it?",
+    content: `Oxford produces more science and technology companies than almost anywhere else in the UK, and many of them reach the point where renting lab or office space stops making sense. Budget 2026, published on 28 October 2026, changes the tax picture for founders who expect to sell one day, and that should shape how a growing company buys its premises. This article explains the founder measures, what is still unknown, and the questions to settle before you approach a lender.
+
+## Founders' Relief: the headline measure
+
+The government will introduce "a new Founders' Relief, providing a 10% CGT rate on up to £10 million of lifetime gains for qualifying founders of high-growth, innovative companies from 6 April 2027" (Budget 2026, para 6.257). The Budget says the relief is intended to support "the talented individuals who take risks to build and scale high-growth, innovative companies in the UK" (Budget 2026, para 4.97).
+
+Three points matter for an Oxford founder.
+
+- **The qualifying rules are not yet written.** The detailed design is subject to a technical consultation launched at the Budget, with legislation in Finance Bill 2026-27 (Budget 2026, para 6.257). The document does not define "high-growth, innovative".
+- **It is aimed at a particular kind of company.** Nothing in the Budget suggests that every trading company will qualify. A university spin-out building a new technology is the obvious target; an established professional practice probably is not.
+- **The start date is fixed.** The relief applies from 6 April 2027.
+
+Because the rules are still being designed, nobody can yet say how a company's ownership of property will interact with Founders' Relief. That is the main reason to keep the premises decision flexible until the consultation outcome is known.
+
+## BADR: the lifetime limit halves
+
+For founders who will not qualify for Founders' Relief, Business Asset Disposal Relief remains the main relief on selling a trading business. Budget 2026 will "reduce the lifetime limit on gains eligible for BADR (which offers a reduced 18% rate of Capital Gains Tax on qualifying disposals) from £1 million to £500,000. The new lifetime limit will apply to disposals made from 6 April 2027" (Budget 2026, para 6.261).
+
+The government says "three-quarters of BADR claimants will still receive relief on their entire gain" (Budget 2026, para 2.53). For an Oxford company that has built significant value, including value tied up in a freehold, the lower limit means more of any gain above £500,000 will be taxed at the standard rates.
+
+## R&D and share schemes
+
+Two further measures matter to research-led companies.
+
+- **R&D claims.** The government will "remove the R&D tax credit Claim Notification Form from 1 April 2027, and simplify the Additional Information Form from autumn 2027" (Budget 2026, para 6.253). Less administration means R&D credits arrive more predictably, which helps a company show lenders a reliable cash position.
+- **EMI2.** The Company Share Option Plan is being renamed EMI2, and the individual option limit doubles from £60,000 to £120,000 from 6 April 2027 (Budget 2026, para 6.255). For spin-outs recruiting senior scientists, that is another way to attract people without spending cash.
+
+The British Business Bank is also launching a £450m venture debt product as part of an additional £5bn of capacity (Budget 2026, para 4.46). Venture debt is a growth funding tool, not a property loan.
+
+## Inside or outside the company: the premises question
+
+When an Oxford science company buys its building, there are broadly two routes: the trading company buys it, or the founders (or a separate company they own) buy it and lease it to the trading company. The Budget does not change the basic mechanics of either, but it changes the stakes.
+
+**Buying inside the trading company.** The building sits on the company's balance sheet, the mortgage is the company's debt, and lenders underwrite it as an owner-occupier loan on the company's accounts. If the company is later sold, the building goes with it, and the founder's gain on the shares reflects the building's value. Whether that gain qualifies for Founders' Relief or BADR depends on the rules for each relief, which for Founders' Relief are not yet published. Advisers will usually want to check that holding a substantial property does not undermine the company's status for whichever relief applies.
+
+**Buying outside the company.** The founders or a separate property company own the building and charge the trading company rent. This keeps the property out of a future share sale, which can make the company simpler to sell or to raise equity into. It also means the building's value is not part of any Founders' Relief or BADR claim on the shares. Lenders treat this as an investment loan backed by the lease, so the strength of the trading company as tenant, and the length of the lease, become central to what they will lend.
+
+Neither route is right for every company. The point is that the Budget's new founder relief makes it more important to decide deliberately, with your accountant, rather than defaulting to whichever route is quickest.
+
+## What lenders will look for
+
+Owner-occupier lending is sized on the property's value and the business's ability to service the debt from its profits. That creates a particular issue for young science companies.
+
+- **Pre-revenue spin-outs** generally cannot service a commercial mortgage from trading profit, so most lenders will not offer an owner-occupier loan until there is a track record. Equity-funded companies are usually better renting until revenues are established.
+- **Revenue-generating companies** with two to three years of filed accounts and positive profit can approach lenders in the normal way. R&D tax credits help cash flow, but lenders will focus on underlying trading profit.
+- **Lab space** is a specialist asset. Valuers will look at how easily it could be re-let or converted, and some lenders lend less against purpose-built laboratories than against conventional offices.
+
+Illustrative example: an Oxford diagnostics company with three years of profitable filed accounts wants to buy the light-industrial unit it rents near the ring road. A lender may consider an owner-occupier mortgage sized on its profit cover. The founders might instead prefer to buy through a separate property company and lease the unit back, keeping it out of any future share sale. Both are workable; the choice turns on tax advice and on how lenders view the lease.
+
+## The Oxford context
+
+The Budget says the Oxford to Cambridge Growth Corridor "needs more residential, commercial, and lab space to reach its potential" (Budget 2026, para 4.92). The government will consult on a development corporation in Oxford by the end of the year and may extend a new financing pilot there (Budget 2026, paras 4.92 and 6.58). Vertex Pharmaceuticals will invest over £300m in a new Oxford facility (Budget 2026, para 6.67). These signal continued demand for science space in and around the city, though they will not change what a lender offers on a specific building today.
+
+## What to do now
+
+1. **Read the Founders' Relief consultation** when it is published, or ask your accountant to, before committing to a premises structure.
+2. **Time disposals carefully.** If you are already planning a sale, note that the new BADR limit and Founders' Relief both start on 6 April 2027.
+3. **Decide inside or outside early.** Restructuring property ownership after purchase can be costly.
+4. **Get your accounts ready.** Filed accounts and current management figures are the starting point for any lender.
+5. **Keep growth funding and property funding separate.** Venture debt, equity and R&D credits fund the science; a commercial mortgage funds the building.
+
+## Key dates
+
+- **28 October 2026:** Budget 2026 published; Founders' Relief technical consultation launched.
+- **End of 2026:** consultation on an Oxford development corporation expected.
+- **1 April 2027:** R&D Claim Notification Form removed.
+- **6 April 2027:** Founders' Relief starts; BADR lifetime limit falls to £500,000; EMI2 option limit rises to £120,000.
+- **Autumn 2027:** R&D Additional Information Form simplified.
+
+## Brought to you by Business Mortgages Broker
+
+This article was prepared by Business Mortgages Broker, which arranges owner-occupier business mortgages for UK trading companies. Founder Matt Lenzie has 25 years in financial services, raising debt and equity, and has arranged around £400m of property finance. For how lenders approach Oxford companies buying their own space, see [owner-occupier business mortgages](https://businessmortgagesbroker.co.uk/locations/england/south-east/oxfordshire/oxford/) in Oxford.
+
+Source: HM Treasury, Budget 2026 (HC 726), 28 October 2026. This article is general information, not tax or financial advice. Commercial Mortgages Oxford is not authorised by the Financial Conduct Authority and does not give regulated advice or personal recommendations.
+`,
+    image: "/images/blog-oxford-market-2026.png",
+    author: "Matt Lenzie, Business Mortgages Broker",
+    publishDate: "2026-10-29",
+    category: "Market Update",
+    tags: ["budget 2026", "founders relief", "BADR", "R&D", "spin-outs", "oxford"],
+    localStats: [
+      { stat: "Founders' Relief: 10% CGT on up to £10m lifetime gains from 6 April 2027", source: "Budget 2026, para 6.257" },
+      { stat: "BADR lifetime limit: £1m to £500,000 from 6 April 2027", source: "Budget 2026, para 6.261" },
+      { stat: "Vertex Pharmaceuticals: over £300m in a new Oxford facility", source: "Budget 2026, para 6.67" },
+    ],
+  },
+  {
     slug: "oxford-commercial-property-market",
     title: "The Oxford commercial property market in 2026",
     excerpt:
@@ -41,7 +132,7 @@ export const blogPosts: BlogPost[] = [
       { stat: "Oxford GVA: £18.8bn", source: "ONS sub-national indicators" },
       { stat: "Active companies in Oxford: 109,000+", source: "Oxford City Council" },
       { stat: "Office stock: 11M sqft", source: "Oxford City Region economic assessment" },
-      { stat: "Mid-2026 CM rate range: 6.0–9.0% pa", source: "Broker panel, May 2026" },
+      { stat: "Mid-2026 CM rate range: 6.0–9.0% pa", source: "Indicative market pricing" },
     ],
   },
 
@@ -50,17 +141,17 @@ export const blogPosts: BlogPost[] = [
     title: "Commercial mortgage rates in Oxford: what to expect for the rest of 2026",
     excerpt:
       "A view on where Oxford commercial mortgage pricing sits at mid-2026 and where it is likely to land by year-end. Owner-occupier 6.0–7.5% pa, commercial investment 6.5–8.5%, semi-commercial up to 9.5%, trading-business up to 10%. Plus the BoE base rate trajectory, swap-curve direction, and named lender appetite where the broker has confirmed permission.",
-    content: `Commercial mortgage rates in Oxford for mid-2026 sit broadly between 7.0% and 10.0% per annum across the eight mainstream product types. Where exactly your deal prices depends on product, sector, LTV, covenant strength, term length and the specific lender desk. This piece sets out the actual rate ranges I am placing this quarter, with named lender positioning where I have confirmed permission to name them, and a working view of where pricing is likely to land for the rest of 2026.
+    content: `Commercial mortgage rates in Oxford for mid-2026 sit broadly between 7.0% and 10.0% per annum across the eight mainstream product types. Where exactly your deal prices depends on product, sector, LTV, covenant strength, term length and the specific lender desk. This piece sets out indicative market rate ranges this quarter, with named lenders used only to describe the market, and a working view of where pricing is likely to land for the rest of 2026.
 
 ## The macro setting at mid-2026
 
 The Bank of England base rate has held flat through the first half of 2026 after the cuts of late 2025. Swap rates, which drive fixed-rate commercial mortgage pricing more directly than base rate, have ticked sideways for nine months. The 5-year SONIA swap, which most Oxford challenger banks anchor 5-year commercial mortgage fixes to, has traded in a tight band of 4.20 to 4.55%. Lender margins on top sit between 280 and 450 basis points depending on product, LTV and covenant.
 
-Translation: pricing is stable, not falling. Borrowers waiting for a 50 basis point improvement in headline rate by Q4 2026 are likely to be disappointed. The base case is that rates land within 25 basis points of where they sit today, in either direction. The downside risk is a re-acceleration of inflation forcing a base rate hike, that scenario would push 5-year fixed commercial mortgage rates back through 7.5% by year-end. The upside risk is a faster fiscal-easing cycle in autumn, that would shave 25 to 50 basis points across the panel by late Q4.
+Translation: pricing is stable, not falling. Borrowers waiting for a 50 basis point improvement in headline rate by Q4 2026 are likely to be disappointed. The base case is that rates land within 25 basis points of where they sit today, in either direction. The downside risk is a re-acceleration of inflation forcing a base rate hike, that scenario would push 5-year fixed commercial mortgage rates back through 7.5% by year-end. The upside risk is a faster fiscal-easing cycle in autumn, that would shave 25 to 50 basis points across the market by late Q4.
 
 ## Owner-occupier commercial mortgages, 7.0 to 7.5% pa
 
-Owner-occupier mortgages, funding the purchase or refinance of premises a business trades from, currently price the keenest of the eight commercial mortgage products. For strong covenants in defensive sectors (dental, GP, pharmacy, established skilled trades), the best of the panel quotes 7.0 to 7.5% pa at 70% LTV on a 5-year fixed rate inside a 20-year amortisation. Mid-tier covenants run 7.5 to 8.0% pa. Tighter cases, 12 to 18 months trading history, less mainstream sectors, stretch to 7.5%.
+Owner-occupier mortgages, funding the purchase or refinance of premises a business trades from, currently price the keenest of the eight commercial mortgage products. For strong covenants in defensive sectors (dental, GP, pharmacy, established skilled trades), the sharpest lenders quote 7.0 to 7.5% pa at 70% LTV on a 5-year fixed rate inside a 20-year amortisation. Mid-tier covenants run 7.5 to 8.0% pa. Tighter cases, 12 to 18 months trading history, less mainstream sectors, stretch to 7.5%.
 
 The Oxford owner-occupier market is unusually competitive on lender count. Allica Bank, Shawbrook, HTB (Oxford office), Cambridge & Counties, Aldermore, YBS Commercial (Reading HQ, natural Oxford catchment), Cynergy Bank and Hampshire Trust Bank all run active programmes for owner-occupier commercial mortgages. NatWest, Lloyds, Barclays and Santander high-street commercial banking desks compete on the larger end where covenant and EBITDA cover are strong. Eight to twelve indicative quotes on a clean owner-occupier enquiry is normal.
 
@@ -68,7 +159,7 @@ The binding constraint at this rate level is rarely the headline rate, it is EBI
 
 ## Commercial investment mortgages, 7.5 to 9.0% pa
 
-Investment commercial mortgages on let assets currently price 7.5 to 9.0% pa across the panel. Strong-covenant single-let assets with 10-year FRI leases price at the lower-cover end, Shawbrook quotes 7.5 to 7.8% pa at 60 to 65% LTV on a Westgate office let to a national professional services firm. Multi-let or short-lease assets at 75% LTV price wider, InterBay Commercial, Cynergy Bank or LendInvest typically pick these up at 8.5 to 9.0% pa.
+Investment commercial mortgages on let assets currently price 7.5 to 9.0% pa across the market. Strong-covenant single-let assets with 10-year FRI leases price at the lower-cover end, Shawbrook quotes 7.5 to 7.8% pa at 60 to 65% LTV on a Westgate office let to a national professional services firm. Multi-let or short-lease assets at 75% LTV price wider, InterBay Commercial, Cynergy Bank or LendInvest typically pick these up at 8.5 to 9.0% pa.
 
 ICR cover at 140 to 160% stressed is the binding test, not headline LTV. Tenant covenant matters as much as rent: a 10-year unbroken FRI lease to an investment-grade tenant prices materially better than three two-year leases to local independents at the same gross rent number. Two practical implications for Oxford investors planning Q3-Q4 acquisitions: weight your acquisition criteria toward longer leases even if the rent is keener on short-lease alternatives, and weight toward stronger covenants even if the gross yield is slightly thinner.
 
@@ -145,9 +236,8 @@ Send me the deal, property details, accounts (owner-occupier or trading-business
     category: "Market Update",
     tags: ["rates", "oxford", "commercial mortgage", "2026", "market update"],
     localStats: [
-      { stat: "Mid-2026 Oxford CM rate range: 6.0–9.0% pa", source: "Broker panel data, May 2026" },
-      { stat: "Active lender count on Oxford CM panel: 90+", source: "Broker panel" },
-      { stat: "Typical owner-occupier LTV: 70–75%", source: "Broker panel" },
+      { stat: "Mid-2026 Oxford CM rate range: 6.0–9.0% pa", source: "Indicative market pricing, May 2026" },
+      { stat: "Typical owner-occupier LTV: 70–75%", source: "Indicative market pricing" },
       { stat: "5-year SONIA swap range YTD 2026: 4.20–4.55%", source: "Bank of England published swap data" },
     ],
   },
@@ -189,7 +279,7 @@ ICR thresholds sit at 140 to 160% of the stressed mortgage interest. On a £1M f
 
 Lease length matters as much as rent level. A 10-year FRI lease on full repairing and insuring terms to a national covenant prices materially better than three rolling two-year leases to local independents at the same headline rent. Tenant covenant strength is graded: investment-grade plc, national chain, regional operator, local independent, sole trader. Each step down costs basis points.
 
-LTV ceilings: 65 to 75% depending on lease length, covenant and asset type. Pricing at mid-2026: 7.5 to 9.0% pa across the panel.
+LTV ceilings: 65 to 75% depending on lease length, covenant and asset type. Pricing at mid-2026: 7.5 to 9.0% pa across the market.
 
 ## The grey zone: group structures and sale-and-leaseback
 
@@ -207,7 +297,7 @@ We are not FCA-authorised and we do not write regulated mortgage contracts. Wher
 
 ## Lender pool by product
 
-| Product | Active panel for Oxford £400K–£5M | LTV ceiling | Rate range (mid-2026) |
+| Product | Active lenders for Oxford £400K–£5M | LTV ceiling | Rate range (mid-2026) |
 |---|---|---|---|
 | Owner-occupier | **Shawbrook**, Hampshire Trust Bank, Allica, Cambridge & Counties, **NatWest**, **Lloyds**, **Barclays**, **Santander** | 70–75% | 7.0–7.5% pa |
 | Commercial investment | **Shawbrook**, **InterBay Commercial**, **LendInvest**, **Cynergy Bank**, Cambridge & Counties | 65–75% | 7.5–9.0% pa |
@@ -292,7 +382,7 @@ Most single-asset, interest-only commercial investment mortgages run ICR. Most a
 
 The stress is the part borrowers underestimate. A 7.5% pa pay rate stressed at +2.0% gives a 9.5% notional, and the cover test is run on the higher number. Plan the cover at the stressed rate, not the headline rate, every time.
 
-## Worked example 1: Westgate single-let office (ICR)
+## Illustrative example 1: Westgate single-let office (ICR)
 
 OX1, 8,400 sqft Grade A floor at Westgate. Let to a national professional services firm on a 10-year FRI lease, gross rent £210,000 pa, three years unexpired at indicative-terms stage with a tenant option to renew.
 
@@ -302,7 +392,7 @@ Annual interest at stressed rate: £1,950,000 x 9.1% = £177,450. Rent £210,000
 
 That fails a 140% threshold. To clear, the borrower needs to either reduce the loan or extend the cover differently. Drop the loan to £1.55M (52% LTV) and stressed interest falls to £141,050, ICR jumps to 149%. **Shawbrook** offered terms at the lower leverage, 7.6% pa, 5-year fix. The lesson: ICR caps the leverage on tight-rent assets, headline LTV is a ceiling not a target.
 
-## Worked example 2: Jericho semi-commercial parade (blended ICR)
+## Illustrative example 2: Jericho semi-commercial parade (blended ICR)
 
 OX2, Cowley Road parade. Three units, each with a flat above. Retail rent £58,000 pa combined, residential AST income £42,000 pa combined. Gross blended rent £100,000 pa.
 
@@ -314,7 +404,7 @@ To clear, the borrower agrees a switch to a 25-year capital-and-interest profile
 
 Semi-commercial blended ICR almost always pulls the leverage well inside the headline LTV ceiling. Plan for it.
 
-## Worked example 3: Headington 4-asset portfolio (DSCR)
+## Illustrative example 3: Headington 4-asset portfolio (DSCR)
 
 OX3, four mid-market investment assets: two retail units, one office, one industrial. Aggregate rent £285,000 pa, weighted average lease term 6.2 years.
 
@@ -330,7 +420,7 @@ The fix in practice is a combination: leverage drops to £2.1M (55% LTV), amorti
 
 DSCR caps leverage harder than ICR on amortising structures. Investors planning portfolio refinances should model DSCR at the stressed rate before they commit to a target loan number.
 
-## Worked example 4: Westgate mixed-use block (DSCR with residential blend)
+## Illustrative example 4: Westgate mixed-use block (DSCR with residential blend)
 
 OX2, Westgate. Five-storey block, ground-floor commercial (cafe and shop), four floors of residential ASTs (12 flats total). Commercial rent £58,000 pa, residential gross £168,000 pa. Total £226,000 pa.
 
@@ -388,7 +478,7 @@ If you are modelling a Oxford commercial investment purchase or refinance and wa
 
 [Contact us](/contact) to discuss your investment case.
 
-For the wider commercial investment lender panel and how the Oxford desk plugs into it, see the [Oxford page on Commercial Mortgages Broker](https://commercialmortgagesbroker.co.uk/locations/oxfordshire/oxford).`,
+For the wider commercial investment lender pool and how the Oxford desk plugs into it, see the [Oxford page on Commercial Mortgages Broker](https://commercialmortgagesbroker.co.uk/locations/oxfordshire/oxford).`,
     image: "/images/blog-dscr-icr.png",
     author: "Commercial Mortgages Oxford",
     publishDate: "2026-06-07",
@@ -461,7 +551,7 @@ Hampshire Trust Bank. Specialist desk with appetite for Good-rated mid-size home
 
 OakNorth. Active on larger transactions (£5M plus), going-concern lending, 60 to 65% LTV, 8.5 to 9.5% pa depending on covenant.
 
-For larger group transactions (two or more homes), the same panel plus ASK Partners private credit for the higher-leverage and Requires-Improvement workouts.
+For larger group transactions (two or more homes), the same lenders plus ASK Partners private credit for the higher-leverage and Requires-Improvement workouts.
 
 ## Re-inspection timing and how to manage it
 
@@ -521,8 +611,8 @@ For the national care home lender network behind the Oxford desk, see the [Oxfor
     slug: "pub-freehold-purchase-oxford-barrelage-ebitda",
     title: "Pub freehold purchase in Oxford: barrelage, EBITDA and the specialist lender desks",
     excerpt:
-      "Buying a pub freehold is one of the most specialist commercial mortgages on the panel. Lenders test barrelage, beer-tie status, food-to-wet revenue split, license type, the operator's track record, and the EBITDA cover before they look at bricks-and-mortar value. This piece walks through what the licensed-trade desks at Cynergy Bank, ASK Partners and the small group of pub-active specialists actually want to see, using the recent Bicester and Marston pub freeholds I have placed as worked examples. Free-of-tie freehold prices significantly tighter than tied; food-led pubs price tighter than wet-led. The piece sets out the rate ranges, the typical LTV ceilings, and where I see the 2026 pub freehold market heading.",
-    content: `Buying a pub freehold is one of the most specialist commercial mortgages on the panel. Lenders test barrelage, beer-tie status, food-to-wet revenue split, license type, the operator's track record, and the EBITDA cover before they even look at bricks-and-mortar value. The licensed-trade desks at **Cynergy Bank**, ASK Partners and the small group of pub-active specialists run a different underwrite to a standard commercial investment lender, and getting placed on the right desk first time saves four to six weeks.
+      "Buying a pub freehold is one of the most specialist commercial mortgages in the market. Lenders test barrelage, beer-tie status, food-to-wet revenue split, license type, the operator's track record, and the EBITDA cover before they look at bricks-and-mortar value. This piece walks through what the licensed-trade desks at Cynergy Bank, ASK Partners and the small group of pub-active specialists actually want to see, using illustrative Bicester and Marston pub freehold scenarios. Free-of-tie freehold prices significantly tighter than tied; food-led pubs price tighter than wet-led. The piece sets out the rate ranges, the typical LTV ceilings, and where I see the 2026 pub freehold market heading.",
+    content: `Buying a pub freehold is one of the most specialist commercial mortgages in the market. Lenders test barrelage, beer-tie status, food-to-wet revenue split, license type, the operator's track record, and the EBITDA cover before they even look at bricks-and-mortar value. The licensed-trade desks at **Cynergy Bank**, ASK Partners and the small group of pub-active specialists run a different underwrite to a standard commercial investment lender, and getting placed on the right desk first time saves four to six weeks.
 
 This piece walks through how the pub freehold underwrite actually works at mid-2026, with worked examples from recent Bicester and Marston transactions.
 
@@ -588,7 +678,7 @@ For Oxford at mid-2026, the typical going-concern multiple sits at 6 to 8 times 
 
 For most clean Oxford free-of-tie pub freeholds in the £500K to £3M bracket, **Cynergy Bank** and ASK Partners are the two desks to lead with.
 
-## Worked example 1: Bicester pub refinance
+## Illustrative example 1: Bicester pub refinance
 
 OX12, free-of-tie food-led freehold in central Bicester. 18-cover restaurant area plus a 40-cover bar, eight letting rooms on the upper floors generating ancillary £85,000 pa. Food-to-wet split 68/32. Barrelage 240 (steady three-year trend). Trailing EBITDA £415,000 pa including the rooms.
 
@@ -598,7 +688,7 @@ Pay rate at 8.6% pa stressed to 10.1% over a 20-year amortisation. Monthly debt-
 
 **Cynergy Bank** quoted 8.65% pa at 65% of going-concern (£1.69M, marginal). Allica's hospitality desk quoted 8.85% pa at the same leverage. ASK Partners offered 9.1% pa at 70% with a slightly faster process. The borrower landed with **Cynergy Bank** on rate, 5-year fix.
 
-## Worked example 2: Marston pub freehold purchase
+## Illustrative example 2: Marston pub freehold purchase
 
 OX18, High Street, Marston. Free-of-tie wet-led community pub, no food offer to speak of, large car park rear. Barrelage 270 (rising trend over three years, new operator improved trade). Food-to-wet 15/85 (essentially wet-led). Trailing EBITDA £165,000 pa.
 
@@ -616,7 +706,7 @@ Three regulatory items that move pricing or kill deals before any valuation work
 
 Premises licence type. A full on-licence permitting late-hours trading is worth materially more than a restaurant-style licence with curfew conditions. Lenders ask for a copy of the licence and any conditions imposed at indicative-terms stage. A Bicester pub with a 1am terminal hour and no recent review reads well. A Marston pub with an 11pm terminal hour, four noise complaints and a pending review reads poorly.
 
-License review history. Anything more than a single historical review (other than minor amendments) sets the lender's risk team into a deeper look. Two or more reviews in the last five years usually moves the deal to ASK Partners or out of the mainstream panel entirely.
+License review history. Anything more than a single historical review (other than minor amendments) sets the lender's risk team into a deeper look. Two or more reviews in the last five years usually moves the deal to ASK Partners or out of mainstream lenders entirely.
 
 Planning. Any pending change-of-use application (typically pub-to-residential conversion attempts by the previous owner) on the property record will halt mainstream lending until withdrawn or refused. We pull the planning record on day one to confirm position.
 
@@ -659,8 +749,8 @@ For the wider licensed-trade lender desks behind the Oxford operation, see the [
     slug: "semi-commercial-mortgage-oxford-shop-with-flat-fca",
     title: "Semi-commercial mortgage on a Oxford shop-with-flat: the FCA twist most brokers miss",
     excerpt:
-      "The classic Oxford semi-commercial archetype, ground-floor retail, one or two flats above, on Cowley Road or High Street or Witney Road, is one of the most well-funded products on the panel. InterBay Commercial, Aldermore, YBS Commercial and Together all quote up to 75% LTV on the right asset. But there is a catch most brokers overlook: where the residential element exceeds 40% of floor area and the borrower or a family member lives in part of the property, the loan can fall inside the Financial Conduct Authority regulated mortgage perimeter. Apply for an unregulated commercial mortgage on a regulated case and the lender will decline at submission. This piece walks through the screening test, the regulated commercial mortgage product, and the specific Oxford situations that trigger the regulated route.",
-    content: `The classic Oxford semi-commercial archetype, ground-floor retail, one or two flats above, on Cowley Road or High Street or Witney Road, is one of the most well-funded products on the panel. **InterBay Commercial**, Aldermore, YBS Commercial and Together all quote up to 75% LTV on the right asset at mid-2026. But there is a catch most brokers overlook, and applying for an unregulated commercial mortgage on a regulated case gets the deal declined at submission.
+      "The classic Oxford semi-commercial archetype, ground-floor retail, one or two flats above, on Cowley Road or High Street or Witney Road, is one of the most well-funded products in the market. InterBay Commercial, Aldermore, YBS Commercial and Together all quote up to 75% LTV on the right asset. But there is a catch most brokers overlook: where the residential element exceeds 40% of floor area and the borrower or a family member lives in part of the property, the loan can fall inside the Financial Conduct Authority regulated mortgage perimeter. Apply for an unregulated commercial mortgage on a regulated case and the lender will decline at submission. This piece walks through the screening test, the regulated commercial mortgage product, and the specific Oxford situations that trigger the regulated route.",
+    content: `The classic Oxford semi-commercial archetype, ground-floor retail, one or two flats above, on Cowley Road or High Street or Witney Road, is one of the most well-funded products in the market. **InterBay Commercial**, Aldermore, YBS Commercial and Together all quote up to 75% LTV on the right asset at mid-2026. But there is a catch most brokers overlook, and applying for an unregulated commercial mortgage on a regulated case gets the deal declined at submission.
 
 Where the residential element exceeds 40% of floor area and the borrower or a family member lives in part of the property, the loan can fall inside the Financial Conduct Authority regulated mortgage perimeter. We are not FCA-authorised. We do not write regulated mortgage contracts. Where a case falls inside the regulated perimeter, we refer it to a regulated broker. This piece walks through the screening test, the specific situations that trigger the regulated route, and the active unregulated semi-commercial desks for everything that sits cleanly the other side of the line.
 
@@ -758,7 +848,7 @@ Resolution: leverage reduces to £550,000 (67% LTV). Stressed interest: £52,250
 
 **InterBay Commercial** quoted 7.95% pa at 67% LTV on a 5-year fix. Aldermore quoted 8.1% pa at the same leverage. YBS Commercial quoted 8.05% pa with a slightly slower process. The borrower landed with **InterBay** on rate.
 
-If at any stage the borrower had said "actually one of the flats is going to my son", the case would have flipped regulated, we would have referred to a regulated broker, and the unregulated panel above would have been the wrong panel from day one.
+If at any stage the borrower had said "actually one of the flats is going to my son", the case would have flipped regulated, we would have referred to a regulated broker, and the unregulated lenders above would have been the wrong lenders from day one.
 
 ## Talk to us about your semi-commercial deal
 
@@ -790,7 +880,7 @@ For the wider semi-commercial lender pool and the regulated-broker referral netw
 - The flexibility cost: asset disposal, individual refinancing
 - The operational benefit: single renewal, single review
 - ERC profile across the consolidated facility
-- Active panel: Shawbrook, Cambridge & Counties, Cynergy, OakNorth
+- Active lenders: Shawbrook, Cambridge & Counties, Cynergy, OakNorth
 - Worked two-site nursery group example
 - Worked four-asset Headington parade example`,
     image: "/images/blog-portfolio-refinance.png",
@@ -811,9 +901,9 @@ For the wider semi-commercial lender pool and the regulated-broker referral netw
 ## Outline
 
 - The non-residential SDLT bands at mid-2026
-- Worked example 1: £600K semi-commercial shop+flat
-- Worked example 2: £1.7M trading business freehold
-- Worked example 3: £3.7M industrial unit
+- Illustrative example 1: £600K semi-commercial shop+flat
+- Illustrative example 2: £1.7M trading business freehold
+- Illustrative example 3: £3.7M industrial unit
 - Mixed-use vs residential classification
 - The mixed-use trap and HMRC's recent enforcement stance
 - Limited company vs personal purchase: tax treatment differences
@@ -843,8 +933,8 @@ For the wider semi-commercial lender pool and the regulated-broker referral netw
 - Lender appetite by structure
 - Personal guarantee implications
 - Future-flexibility: refinance, sale, gift
-- Worked example: 4-asset portfolio in Headington
-- Worked example: dental practice with property in same limited company`,
+- Illustrative example: 4-asset portfolio in Headington
+- Illustrative example: dental practice with property in same limited company`,
     image: "/images/blog-limited-company.png",
     author: "Commercial Mortgages Oxford",
     publishDate: "2026-08-30",
@@ -868,9 +958,9 @@ For the wider semi-commercial lender pool and the regulated-broker referral netw
 - The bridge-to-let mechanic and the agreed exit
 - Bridge-to-sale: when it works
 - Active Oxford bridging desks
-- Worked example 1: vacant Jericho parade purchase
-- Worked example 2: change-of-use Cowley unit
-- Worked example 3: chain-break Bicester pub`,
+- Illustrative example 1: vacant Jericho parade purchase
+- Illustrative example 2: change-of-use Cowley unit
+- Illustrative example 3: chain-break Bicester pub`,
     image: "/images/blog-bridging.png",
     author: "Commercial Mortgages Oxford",
     publishDate: "2026-09-13",

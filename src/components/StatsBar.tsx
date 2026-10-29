@@ -1,14 +1,13 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { STATS } from "@/lib/constants";
 import { AnimatedCounter } from "./AnimatedCounter";
 
 const stats = [
-  { label: "Capital arranged", value: STATS.capitalRaised },
-  { label: "Deals completed", value: STATS.dealsCompleted },
-  { label: "Lender panel", value: STATS.lenderPanel },
-  { label: "Years in market", value: STATS.yearsExperience },
+  { label: "Property finance arranged", value: "£400m+" },
+  { label: "Years in financial services", value: "25" },
+  { label: "Indicative terms", value: "48hr" },
+  { label: "Typical max LTV", value: "75%" },
 ];
 
 export function StatsBar() {

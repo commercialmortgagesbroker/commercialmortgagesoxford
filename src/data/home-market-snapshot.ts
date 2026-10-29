@@ -13,11 +13,11 @@ export interface HomeMarketSnapshot {
 
 export const homeMarketSnapshot: HomeMarketSnapshot = {
   locationName: "Oxford",
-  source: "Mid-2026 Oxford CM market, broker panel data",
+  source: "Mid-2026 Oxford CM market, Indicative market pricing",
   stats: [
     {
       value: "90+",
-      label: "Lender panel",
+      label: "Lender market",
       footnote: "High-street, challenger and specialist desks",
     },
     {

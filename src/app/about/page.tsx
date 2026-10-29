@@ -12,7 +12,7 @@ const siteUrl = `https://${siteConfig.domain}`;
 
 export const metadata: Metadata = {
   title: `About ${loc} Commercial Mortgages | Specialist Broker`,
-  description: `${loc} commercial mortgage broker with \u00a3400M+ arranged. Corporate-banking background, 20+ years' property finance experience, 90+ lender relationships including Shawbrook, InterBay, LendInvest, Cynergy, Lloyds, NatWest, Barclays and Santander.`,
+  description: `${loc} commercial mortgage broker led by founder Matt Lenzie: 25 years in financial services, raising debt and equity, and around \u00a3400m of property finance arranged. Owner-occupier, investment, semi-commercial and trading-business deals.`,
   alternates: { canonical: `${siteUrl}/about` },
 };
 

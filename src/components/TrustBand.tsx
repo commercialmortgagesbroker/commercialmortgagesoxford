@@ -22,25 +22,25 @@ export function TrustBand({
   locationName,
   teamPhotoSrc,
   personalMessage,
-  signatureName = "Matt",
-  signatureRole = "Founder · 20+ years in commercial property finance",
+  signatureName = "Matt Lenzie",
+  signatureRole = "Founder · 25 years in financial services",
 }: TrustBandProps) {
   const credentials = [
     {
       eyebrow: "Experience",
-      value: "20+ years",
-      detail: "In property and commercial lending, including senior corporate banking.",
+      value: "25 yrs",
+      detail: "Financial services, raising debt and equity.",
     },
     {
       eyebrow: "Arranged",
-      value: "£400M+",
-      detail: "In commercial mortgages across the UK.",
+      value: "£400m+",
+      detail: "Property finance arranged.",
     },
     {
-      eyebrow: "Lender panel",
-      value: "90+ lenders",
+      eyebrow: "Lender market",
+      value: "High street to specialist",
       detail:
-        "Live relationships with high-street banks, challenger banks and specialist commercial lenders, Shawbrook, InterBay, LendInvest, Cynergy, Lloyds, NatWest, Barclays, Santander and more.",
+        "We approach the high-street, challenger and specialist lenders whose criteria fit the deal. Naming a lender describes the market; it does not mean we have a relationship with it.",
     },
     {
       eyebrow: "Coverage",
@@ -52,7 +52,7 @@ export function TrustBand({
 
   const message =
     personalMessage ??
-    `Hi \u2014 I'm ${signatureName}. I've spent two decades in property lending and commercial banking. What I do now is simple: I bring deals I believe in to lenders I already know, and I don't waste anyone's time if the numbers don't work. If you want a straight answer on your ${locationName} commercial mortgage, send the deal through \u2014 you'll hear back within 48 hours, and it won't be a form response.`;
+    `Hi, I'm ${signatureName}. I've spent 25 years in financial services, raising debt and equity, and arranged around £400m of property finance. What I do now is simple: I package each deal the way a credit officer wants to read it, take it to the lenders whose criteria fit, and I don't waste anyone's time if the numbers don't work. If you want a straight answer on your ${locationName} commercial mortgage, send the deal through. You'll hear back within 48 hours, and it won't be a form response.`;
 
   return (
     <section className="section">
@@ -62,7 +62,7 @@ export function TrustBand({
             <div>
               <span className="eyebrow">Who you&rsquo;re speaking to</span>
               <h2 className="mt-6 font-editorial text-4xl md:text-5xl">
-                The human behind the panel.
+                The person behind the advice.
               </h2>
 
               {/* Personal-voice block with avatar + signature */}
@@ -92,7 +92,7 @@ export function TrustBand({
                   Meet the team
                 </Link>
                 <Link href="/case-studies" className="btn btn-ghost">
-                  See our deals
+                  See example scenarios
                 </Link>
               </div>
             </div>

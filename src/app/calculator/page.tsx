@@ -34,7 +34,7 @@ export default function CalculatorPage() {
         schema={generateFAQSchema([
           {
             question: "How accurate is this commercial mortgage calculator?",
-            answer: `This calculator provides indicative monthly payment and interest estimates based on standard ${loc} commercial mortgage parameters. Actual rates depend on the asset class, your trading history (for owner-occupier) or rental cover (for investment), and live lender appetite. Contact us for a tailored quote from our 90+ lender panel including Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays and Santander.`,
+            answer: `This calculator provides indicative monthly payment and interest estimates based on standard ${loc} commercial mortgage parameters. Actual rates depend on the asset class, your trading history (for owner-occupier) or rental cover (for investment), and live lender appetite. Contact us for a tailored quote from across the high-street, challenger and specialist lender market including Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays and Santander.`,
           },
           {
             question: `What LTV can I get on a ${loc} commercial mortgage?`,
@@ -96,12 +96,12 @@ export default function CalculatorPage() {
                 The calculator above models a standard amortising commercial
                 mortgage at the LTV, term and rate you set. Actual terms depend
                 on the property type, the lease (for investment), your trading
-                history (for owner-occupier), and the lender selected from our{" "}
+                history (for owner-occupier), and the lender selected from the{" "}
                 <Link
                   href="/services"
                   className="font-medium underline decoration-[color:var(--color-accent)] decoration-2 underline-offset-4"
                 >
-                  90+ lender panel
+                  high-street, challenger and specialist lenders
                 </Link>
                 . Indicative {loc} rates currently sit at 6.0-9.0% pa.
               </p>

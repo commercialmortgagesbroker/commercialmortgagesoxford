@@ -503,7 +503,7 @@ export const serviceDetails: Record<string, ServiceDetail> = {
       eyebrow: "End-of-fix - Capital raise",
       h1: "Commercial Remortgage Oxford",
       lede:
-        "Refinancing existing commercial mortgages: moving lender at end of a 5-year fix, releasing capital from an appreciated asset, or moving from specialist back to mainstream once trading has stabilised. Whole-of-market benchmark across 90+ lenders. Loan-to-value to 75%, interest rates from 6.0% pa, 5 to 25 year repayment terms.",
+        "Refinancing existing commercial mortgages: moving lender at end of a 5-year fix, releasing capital from an appreciated asset, or moving from specialist back to mainstream once trading has stabilised. Benchmark across the high-street, challenger and specialist lenders whose criteria fit the deal. Loan-to-value to 75%, interest rates from 6.0% pa, 5 to 25 year repayment terms.",
       metrics: [
         { label: "LTV", value: "Up to 75%" },
         { label: "Rate", value: "From 6.0% pa" },

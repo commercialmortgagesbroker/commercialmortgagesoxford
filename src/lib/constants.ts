@@ -1,15 +1,14 @@
 export const SITE_NAME = "Commercial Mortgages Oxford";
 export const SITE_URL = "https://commercialmortgagesoxford.co.uk";
 export const SITE_DESCRIPTION =
-  "Specialist commercial mortgages for property investors, owner-occupier businesses, life sciences operators and trading operators in Oxford and Oxfordshire. Owner-occupier, investment, semi-commercial, portfolio and trading-business finance from a 90+ lender panel. Indicative terms in 48 hours.";
+  "Specialist commercial mortgages for property investors, owner-occupier businesses, life sciences operators and trading operators in Oxford and Oxfordshire. Owner-occupier, investment, semi-commercial, portfolio and trading-business finance from across the high-street, challenger and specialist lender market. Indicative terms in 48 hours.";
 export const PHONE_NUMBER = "07595 366094";
 export const EMAIL = "enquiries@commercialmortgagesoxford.co.uk";
 
 export const STATS = {
-  capitalRaised: "£400M+",
-  dealsCompleted: "400+",
+  capitalRaised: "£400m+",
   lenderPanel: "90+",
-  yearsExperience: "20+",
+  yearsExperience: "25",
 };
 
 export const NAV_LINKS = [
@@ -60,6 +59,7 @@ export const NETWORK_LINKS = [
   { href: "https://commercialmortgagesmanchester.co.uk", label: "Commercial Mortgages Manchester" },
   { href: "https://commercialmortgagesbirmingham.co.uk", label: "Commercial Mortgages Birmingham" },
   { href: "https://commercialmortgagesbristol.co.uk", label: "Commercial Mortgages Bristol" },
+  { href: "https://businessmortgagesbroker.co.uk/locations/england/south-east/oxfordshire/oxford/", label: "owner-occupier business mortgages" },
 ];
 
 export const AREAS = [

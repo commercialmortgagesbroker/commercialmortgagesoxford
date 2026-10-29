@@ -23,7 +23,7 @@ export function Footer() {
               owner-occupier businesses and trading operators across Oxford and
               Oxfordshire. We arrange owner-occupier, investment,
               semi-commercial, portfolio and trading-business commercial
-              mortgages from a 90+ lender panel.
+              mortgages from across the high-street, challenger and specialist lender market.
             </p>
             <div className="mt-6 space-y-2 text-sm">
               <p>
@@ -157,6 +157,10 @@ export function Footer() {
             mortgages or any other product that requires FCA permission. Where
             a deal would require FCA authorisation we refer the enquiry to a
             regulated firm.
+          </p>
+          <p className="mt-2">
+            Naming a lender describes the market; it does not mean we have a
+            relationship with it.
           </p>
         </div>
       </div>

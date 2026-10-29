@@ -1,26 +1,14 @@
 import { ScrollReveal } from "@/components/ScrollReveal";
 
 /**
- * The 18 lenders on the homepage panel are a representative slice of the broker's
- * 90+ commercial mortgage panel. The eight starred names are the lenders the broker
- * has explicit permission to display logos for; the rest carry brand names only.
- *
- * Composition deliberately reflects the real CM market:
- *  - 4 high-street commercial divisions (NatWest, Lloyds, Barclays, Santander)
- *  - 8 challenger banks doing the bulk of mid-market CM (Allica, Shawbrook, HTB,
- *    Aldermore, Cambridge & Counties, Cynergy, Paragon, YBS Commercial)
- *  - 4 specialist banks for £1M+, semi-commercial and BTL-flavoured deals
- *    (OakNorth, InterBay Commercial, LendInvest, Together)
- *  - 2 relationship/recognition banks (Recognise, Handelsbanken)
- *
- * NOT included on this panel: bridging-only / pure-development lenders. Those
- * are a different product family and a different broker conversation.
+ * A representative slice of UK commercial mortgage lenders, shown to describe
+ * the market. Naming a lender does not imply a relationship with it.
  */
 
 interface Lender {
   name: string;
   category: string;
-  /** True if the broker has explicit permission to display the logo. */
+  /** Legacy flag; not rendered. */
   named: boolean;
 }
 
@@ -56,24 +44,23 @@ export function LenderPanel({ locationName }: LenderPanelProps) {
         <div className="grid gap-12 lg:grid-cols-[1fr_1.6fr]">
           <ScrollReveal>
             <div>
-              <span className="eyebrow">Lender panel</span>
+              <span className="eyebrow">The lender market</span>
               <h2 className="mt-6 font-editorial text-4xl md:text-5xl">
-                90+ commercial mortgage lenders. Eighteen of them on this page.
+                High-street, challenger and specialist lenders. Eighteen of them on this page.
               </h2>
               <p className="mt-6 max-w-md text-base leading-relaxed text-[color:var(--color-muted)]">
-                A working panel of high-street commercial divisions, tier-1
-                challenger banks, and specialist desks for semi-commercial and
-                trading-business deals. We benchmark every {locationName}{" "}
-                enquiry across the panel before placing, not three calls to
-                whoever picked up.
+                The {locationName} commercial mortgage market spans high-street
+                commercial divisions, challenger banks and specialist lenders for
+                semi-commercial and trading-business deals. We look at the
+                high-street, challenger and specialist lenders whose criteria fit
+                the deal, not three calls to whoever picked up.
               </p>
               <p className="mt-4 max-w-md text-sm leading-relaxed text-[color:var(--color-muted)]">
-                Lenders shown below have all written {locationName} commercial
-                mortgages with us in the last 18 months. The eight named with
-                logos appear with explicit permission. The remaining 70+ on the
-                full panel cover specialist sectors (CQC-regulated care, hotel
-                EBITDA, dental goodwill, MOT/petrol forecourt) and private
-                credit for £2M+ structured deals.
+                Naming a lender describes the market; it does not mean we have a
+                relationship with it. Specialist sectors (CQC-regulated care, hotel
+                EBITDA, dental goodwill, MOT and petrol forecourt) and private
+                credit for larger structured deals sit with further specialist
+                lenders.
               </p>
             </div>
           </ScrollReveal>

@@ -305,7 +305,7 @@ export function LoanCalculator() {
               </p>
               <p className="text-sm text-[color:var(--color-paper)]/75">
                 Leave your details and we&rsquo;ll come back with indicative terms
-                from our lender panel within 48 hours, alongside the modelled
+                from the lenders whose criteria fit within 48 hours, alongside the modelled
                 figures from the calculator above.
               </p>
               <div className="grid gap-3 sm:grid-cols-2">

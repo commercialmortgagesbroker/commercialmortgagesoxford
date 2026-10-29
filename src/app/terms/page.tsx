@@ -49,7 +49,7 @@ export default function TermsPage() {
                   specialist commercial mortgage lenders on the other. We do
                   not lend money directly. Our role is to assess your
                   commercial mortgage requirements, identify suitable lenders
-                  from our 90+ lender panel, and facilitate the application
+                  from across the high-street, challenger and specialist lender market, and facilitate the application
                   process through to drawdown. All lending decisions are made
                   by the lenders themselves.
                 </p>

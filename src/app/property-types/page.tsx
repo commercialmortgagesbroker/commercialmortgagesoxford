@@ -54,7 +54,7 @@ export default function PropertyTypesIndexPage() {
             <p className="mt-4 text-base text-gray-600">
               Each sector page covers the specific lender appetite, LTV cap,
               cover test, typical rate band, and {loc}-market context for that
-              asset class, including which of our 90+ panel lenders write the
+              asset class, including which lenders write the
               sector and which decline.
             </p>
 

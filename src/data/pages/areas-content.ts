@@ -104,7 +104,7 @@ export const areasHubContent: AreasHubContent = {
   intro: {
     h2: "How the Oxford commercial mortgage market splits by district",
     body: [
-      "Pricing inside the OX1 / OX2 city core is not the same as pricing on the OX4 Cowley fringe or the Begbroke and Oxford North innovation belt over the Cherwell District Council border. ICR thresholds on a Cowley Road shop-with-flat are not the same as on an Oxford Science Park lab-flex investment. The lender shortlist for a Headington healthcare freehold is almost entirely different from the shortlist for a Westgate flagship retail acquisition. Every area page below carries the specifics that matter, postcode, named planning applications drawn from the Oxford City Council Idox public access portal, dominant commercial sector mix, expected LTV and rate range, and the two or three lenders we lean on first.",
+      "Pricing inside the OX1 / OX2 city core is not the same as pricing on the OX4 Cowley fringe or the Begbroke and Oxford North innovation belt over the Cherwell District Council border. ICR thresholds on a Cowley Road shop-with-flat are not the same as on an Oxford Science Park lab-flex investment. The lender shortlist for a Headington healthcare freehold is almost entirely different from the shortlist for a Westgate flagship retail acquisition. Every area page below carries the specifics that matter, postcode, named planning applications drawn from the Oxford City Council Idox public access portal, dominant commercial sector mix, expected LTV and rate range, and the two or three types of lender to approach first.",
       "We arrange commercial mortgages, finance and refinancing across all twelve districts. Commercial mortgages are unregulated and fall outside the FCA regulated mortgage perimeter, we do not hold FCA authorisation because the products we arrange are unregulated. Stamp duty land tax applies on every commercial purchase at the commercial rates, your conveyancer will price it. Where a lender takes more than 60% LTV against a trading business, expect EBITDA cover testing in addition to bricks-and-mortar valuation.",
     ],
   },
@@ -137,7 +137,7 @@ export const areasHubContent: AreasHubContent = {
   closing: {
     h2: "Beyond the twelve, wider Oxfordshire and the Thames Valley",
     body:
-      "We routinely arrange commercial mortgages outside the twelve districts above, including Kidlington, Wheatley, Eynsham and Cumnor inside the immediate Oxford ring, plus Bicester, Witney, Abingdon and Didcot inside the wider Oxfordshire footprint. The Harwell Campus life sciences cluster south of Didcot and the Milton Park business park sit inside our regular flow alongside the Oxford Science Park, Begbroke and Oxford North innovation belt. The same 90+ lender panel applies, with Allica Bank, HTB and Cambridge & Counties active across the Thames Valley. If your deal is in an Oxfordshire postcode that does not have its own page yet, call us direct, we will route you to the right product and the right two or three lenders inside an hour.",
+      "We routinely arrange commercial mortgages outside the twelve districts above, including Kidlington, Wheatley, Eynsham and Cumnor inside the immediate Oxford ring, plus Bicester, Witney, Abingdon and Didcot inside the wider Oxfordshire footprint. The Harwell Campus life sciences cluster south of Didcot and the Milton Park business park sit inside our regular flow alongside the Oxford Science Park, Begbroke and Oxford North innovation belt. The same high-street, challenger and specialist lenders are active, with Allica Bank, HTB and Cambridge & Counties active across the Thames Valley. If your deal is in an Oxfordshire postcode that does not have its own page yet, call us direct, we will route you to the right product and the right two or three lenders inside an hour.",
   },
 };
 
@@ -147,7 +147,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Oxford City Centre and Carfax",
     metaTitle: "Commercial Mortgages Oxford City Centre and Carfax | Specialist Broker, OX1",
     metaDescription:
-      "Commercial mortgages for Oxford City Centre and Carfax, OX1 prime retail, hospitality and mixed-use upper-floor stock. Cornmarket, Queen Street, High Street, Broad Street. 90+ lender panel, indicative terms in 48 hours.",
+      "Commercial mortgages for Oxford City Centre and Carfax, OX1 prime retail, hospitality and mixed-use upper-floor stock. Cornmarket, Queen Street, High Street, Broad Street. High-street, challenger and specialist lenders, indicative terms in 48 hours.",
     hero: {
       h1: "Commercial Mortgages Oxford City Centre and Carfax",
       lede:
@@ -231,7 +231,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Jericho and North Oxford",
     metaTitle: "Commercial Mortgages Jericho and North Oxford | Specialist Broker, OX2",
     metaDescription:
-      "Commercial mortgages for Jericho and North Oxford (OX2), Walton Street F&B, Banbury Road and Woodstock Road professional services, Observatory Street premium semi-commercial. Specialist Thames Valley lender panel.",
+      "Commercial mortgages for Jericho and North Oxford (OX2), Walton Street F&B, Banbury Road and Woodstock Road professional services, Observatory Street premium semi-commercial. Specialist Thames Valley lenders.",
     hero: {
       h1: "Commercial Mortgages Jericho and North Oxford",
       lede:
@@ -315,7 +315,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Headington",
     metaTitle: "Commercial Mortgages Headington Oxford | Specialist Broker, OX3",
     metaDescription:
-      "Commercial mortgages for Headington (OX3), the hospital-adjacent healthcare cluster, London Road retail strip, hotels. John Radcliffe, Churchill, Nuffield Orthopaedic catchment. Specialist healthcare and trading-business lender panel.",
+      "Commercial mortgages for Headington (OX3), the hospital-adjacent healthcare cluster, London Road retail strip, hotels. John Radcliffe, Churchill, Nuffield Orthopaedic catchment. Specialist healthcare and trading-business lender pool.",
     hero: {
       h1: "Commercial Mortgages Headington Oxford",
       lede:
@@ -399,7 +399,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Cowley Road and East Oxford",
     metaTitle: "Commercial Mortgages Cowley Road and East Oxford | Specialist Broker, OX4",
     metaDescription:
-      "Commercial mortgages for Cowley Road and East Oxford (OX4), independent retail, F&B and HMO blocks. Templars Square, Magdalen Road, Iffley Road adjacency. HMO yields 6 to 8%. Specialist semi-commercial and HMO lender panel.",
+      "Commercial mortgages for Cowley Road and East Oxford (OX4), independent retail, F&B and HMO blocks. Templars Square, Magdalen Road, Iffley Road adjacency. HMO yields 6 to 8%. Specialist semi-commercial and HMO lenders.",
     hero: {
       h1: "Commercial Mortgages Cowley Road and East Oxford",
       lede:
@@ -483,7 +483,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Summertown",
     metaTitle: "Commercial Mortgages Summertown Oxford | Specialist Broker, OX2",
     metaDescription:
-      "Commercial mortgages for Summertown, Oxford (OX2), the affluent Banbury Road retail and professional-services parade north of the city centre. Specialist owner-occupier, semi-commercial and Thames Valley lender panel.",
+      "Commercial mortgages for Summertown, Oxford (OX2), the affluent Banbury Road retail and professional-services parade north of the city centre. Specialist owner-occupier, semi-commercial and Thames Valley lenders.",
     hero: {
       h1: "Commercial Mortgages Summertown Oxford",
       lede:
@@ -493,7 +493,7 @@ export const areaDetails: Record<string, AreaDetail> = {
       h2: "The Summertown commercial property market",
       body: [
         "Summertown is one of the most affluent parade markets in Oxfordshire. The Banbury Road parade between South Parade and Marston Ferry Road runs a deep mix of national retail, premium independent retail, café and restaurant operators, supported by the highest-value catchment of any Oxford district outside the central core. Retail rents on the prime Summertown parade sit at £35 to £55 per sq ft in 2026 on Zone A frontage. Office and professional-services rents on upper-floor stock and the side-street Edwardian conversion belt run at £28 to £38 per sq ft, with smaller floor plates routinely owner-occupied by accountancy, legal and surveyor partnerships.",
-        "Transactions are dominated by owner-occupier professional-services partnership purchases and small-cap private investment on the parade. Typical lot sizes £600K to £2.5M on owner-occupier deals with EBITDA-led underwriting at 70 to 75% LTV, and £500K to £2M on parade retail or F&B investment with ICR-led underwriting at 65 to 75% LTV. The deep-volume zone for our Summertown commercial mortgage book is the £500K to £2M bracket. Pricing 6.0 to 7.5% pa for clean parade investment, with strong-covenant national-retail-let stock at 6.0 to 6.5% and secondary independent parade at 7.0 to 8.0%.",
+        "Transactions are dominated by owner-occupier professional-services partnership purchases and small-cap private investment on the parade. Typical lot sizes £600K to £2.5M on owner-occupier deals with EBITDA-led underwriting at 70 to 75% LTV, and £500K to £2M on parade retail or F&B investment with ICR-led underwriting at 65 to 75% LTV. The deep-volume zone for Summertown commercial mortgages is the £500K to £2M bracket. Pricing 6.0 to 7.5% pa for clean parade investment, with strong-covenant national-retail-let stock at 6.0 to 6.5% and secondary independent parade at 7.0 to 8.0%.",
         "HM Land Registry residential transactions across the wider OX2 Summertown catchment confirm a structurally premium professional-and-family market. The depth of the residential demand underwrites strong tenant covenant assumptions on the ground-floor retail and F&B parade. We use the residential data as a market-temperature signal on the commercial property beneath, not as a commercial comparable. Stamp duty applies at the commercial rates on every freehold commercial purchase.",
       ],
     },
@@ -567,7 +567,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Botley and Westway",
     metaTitle: "Commercial Mortgages Botley and Westway Oxford | Specialist Broker, OX2",
     metaDescription:
-      "Commercial mortgages for Botley and Westway (OX2), district retail centre, regeneration pipeline, Seacourt Tower, Elms Parade. Specialist district retail, mixed-use and regeneration lender panel.",
+      "Commercial mortgages for Botley and Westway (OX2), district retail centre, regeneration pipeline, Seacourt Tower, Elms Parade. Specialist district retail, mixed-use and regeneration lenders.",
     hero: {
       h1: "Commercial Mortgages Botley and Westway",
       lede:
@@ -619,7 +619,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     lenderAppetite: {
       h2: "Lender appetite for Botley district retail and Westway hotel",
       body:
-        "Strong across the OX2 Botley archetypes. Westway scheme retail investment competes across <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong>, <strong>Santander</strong>, <strong>Shawbrook</strong> and Cambridge & Counties at 65 to 70% LTV and 6.5 to 7.5% pa with strong tenant covenants. Premier Inn and branded hotel trading-business is led by <strong>Shawbrook</strong>, <strong>Cynergy Bank</strong> and HTB on operator EBITDA at 60 to 65% LTV and 7.5 to 9.0% pa, with each carrying a different brand-comfort and operator-track-record threshold. Single-let drive-thru with a national covenant on a long FRI lease prices keenest, often through the high-street panel at 6.0 to 7.0% pa. <strong>LendInvest</strong> covers new-build hotel and retail park reconfiguration bridge funding. Owner-occupier independent retail routes through <strong>Lloyds</strong>, <strong>NatWest</strong>, <strong>Barclays</strong>, <strong>Santander</strong> and Allica Bank at 70 to 75% LTV and 6.5 to 7.5% pa. Commercial mortgages are unregulated and fall outside the FCA regulated mortgage perimeter, we do not hold FCA authorisation because the products we arrange are unregulated.",
+        "Strong across the OX2 Botley archetypes. Westway scheme retail investment competes across <strong>NatWest</strong>, <strong>Lloyds</strong>, <strong>Barclays</strong>, <strong>Santander</strong>, <strong>Shawbrook</strong> and Cambridge & Counties at 65 to 70% LTV and 6.5 to 7.5% pa with strong tenant covenants. Premier Inn and branded hotel trading-business is led by <strong>Shawbrook</strong>, <strong>Cynergy Bank</strong> and HTB on operator EBITDA at 60 to 65% LTV and 7.5 to 9.0% pa, with each carrying a different brand-comfort and operator-track-record threshold. Single-let drive-thru with a national covenant on a long FRI lease prices keenest, often through high-street lenders at 6.0 to 7.0% pa. <strong>LendInvest</strong> covers new-build hotel and retail park reconfiguration bridge funding. Owner-occupier independent retail routes through <strong>Lloyds</strong>, <strong>NatWest</strong>, <strong>Barclays</strong>, <strong>Santander</strong> and Allica Bank at 70 to 75% LTV and 6.5 to 7.5% pa. Commercial mortgages are unregulated and fall outside the FCA regulated mortgage perimeter, we do not hold FCA authorisation because the products we arrange are unregulated.",
     },
     relatedAssetClasses: ["retail", "leisure-hospitality", "pub-restaurant", "mixed-use", "office", "semi-commercial"],
     faqs: [
@@ -651,7 +651,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Iffley and Iffley Road",
     metaTitle: "Commercial Mortgages Iffley and Iffley Road | Specialist Broker, OX4",
     metaDescription:
-      "Commercial mortgages for Iffley and Iffley Road (OX4 1), the leisure and HMO belt running south-east from Magdalen Bridge. Roger Bannister Track, Iffley Village, Cowley Road adjacency. Specialist HMO and semi-commercial lender panel.",
+      "Commercial mortgages for Iffley and Iffley Road (OX4 1), the leisure and HMO belt running south-east from Magdalen Bridge. Roger Bannister Track, Iffley Village, Cowley Road adjacency. Specialist HMO and semi-commercial lender pool.",
     hero: {
       h1: "Commercial Mortgages Iffley and Iffley Road",
       lede:
@@ -735,7 +735,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Marston",
     metaTitle: "Commercial Mortgages Marston Oxford | Specialist Broker, OX3",
     metaDescription:
-      "Commercial mortgages for Marston (OX3), the north-east Oxford suburban belt. Marston Road neighbourhood retail, dental practice and GP healthcare ancillary, convenience. Specialist suburban owner-occupier and Thames Valley lender panel.",
+      "Commercial mortgages for Marston (OX3), the north-east Oxford suburban belt. Marston Road neighbourhood retail, dental practice and GP healthcare ancillary, convenience. Specialist suburban owner-occupier and Thames Valley lenders.",
     hero: {
       h1: "Commercial Mortgages Marston Oxford",
       lede:
@@ -745,7 +745,7 @@ export const areaDetails: Record<string, AreaDetail> = {
       h2: "The Marston commercial property market",
       body: [
         "Marston is a smaller-cap suburban commercial market sitting at the OX3 north-east edge of Oxford. The Marston Road neighbourhood retail spine carries roughly twenty independent and convenience occupiers, the kind of suburban parade where the dominant uses are a convenience grocer, a café, a takeaway, an independent dentist and a couple of allied-health clinics. Rents on the prime Marston Road frontage in 2026 sit at £18 to £30 per sq ft, with secondary parade at £14 to £22. The OX3 healthcare halo from John Radcliffe, Churchill and the Nuffield Orthopaedic sites runs north into Marston, meaning the suburb carries a meaningful ancillary healthcare stock concentration relative to its size, dentists, private GPs, physiotherapists and specialist clinicians serving the hospital workforce catchment.",
-        "Transactions are dominated by smaller-cap owner-occupier deals. Dental practice owner-occupier at £400K to £900K, independent retail owner-occupier at £300K to £700K, suburban semi-commercial shop-with-flat at £300K to £750K. Investment flow is thinner, with the Marston Road parade typically held in long-term private ownership and trading only intermittently. The deep-volume zone for our Marston commercial mortgage book is the £200K to £700K bracket. Pricing on Marston Road owner-occupier 6.5 to 7.5% pa at 70 to 75% LTV on EBITDA cover, semi-commercial 7.0 to 8.0% pa at 70 to 75% LTV. The market is one of the quieter Oxford submarkets but with deeper covenant comfort across the high-street lender panel because of the predominantly small-business suburban occupier mix.",
+        "Transactions are dominated by smaller-cap owner-occupier deals. Dental practice owner-occupier at £400K to £900K, independent retail owner-occupier at £300K to £700K, suburban semi-commercial shop-with-flat at £300K to £750K. Investment flow is thinner, with the Marston Road parade typically held in long-term private ownership and trading only intermittently. The deep-volume zone for Marston commercial mortgages is the £200K to £700K bracket. Pricing on Marston Road owner-occupier 6.5 to 7.5% pa at 70 to 75% LTV on EBITDA cover, semi-commercial 7.0 to 8.0% pa at 70 to 75% LTV. The market is one of the quieter Oxford submarkets but with deeper covenant comfort across high-street lenders because of the predominantly small-business suburban occupier mix.",
         "HM Land Registry residential transactions across the Marston catchment confirm a deep family and professional market underwriting the convenience and healthcare-ancillary end of the Marston Road parade. We use the residential data as a directional signal on commercial demand strength, not as a commercial comparable. Stamp duty applies at the commercial rates on every freehold commercial purchase, healthcare owner-occupier acquisitions follow the commercial SDLT scale.",
       ],
     },
@@ -819,7 +819,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Littlemore and Blackbird Leys",
     metaTitle: "Commercial Mortgages Littlemore and Blackbird Leys | Specialist Broker, OX4",
     metaDescription:
-      "Commercial mortgages for Littlemore and Blackbird Leys (OX4), the outer south Oxford trade and industrial belt. BMW Plant Oxford adjacency, Garsington Road, Blackbird Leys regeneration. Specialist industrial owner-occupier and Thames Valley lender panel.",
+      "Commercial mortgages for Littlemore and Blackbird Leys (OX4), the outer south Oxford trade and industrial belt. BMW Plant Oxford adjacency, Garsington Road, Blackbird Leys regeneration. Specialist industrial owner-occupier and Thames Valley lenders.",
     hero: {
       h1: "Commercial Mortgages Littlemore and Blackbird Leys",
       lede:
@@ -878,7 +878,7 @@ export const areaDetails: Record<string, AreaDetail> = {
       {
         question: "What rate on a Garsington Road trade-counter owner-occupier purchase?",
         answer:
-          "6.5 to 7.5% pa at 70 to 75% LTV on EBITDA cover at 1.3 to 1.5x. <strong>Cynergy Bank</strong>, <strong>Shawbrook</strong> and Allica Bank lead the Cowley industrial owner-occupier shortlist on small-to-mid box trade businesses. The BMW Plant supply-chain catchment provides deep covenant comfort across the panel.",
+          "6.5 to 7.5% pa at 70 to 75% LTV on EBITDA cover at 1.3 to 1.5x. <strong>Cynergy Bank</strong>, <strong>Shawbrook</strong> and Allica Bank lead the Cowley industrial owner-occupier shortlist on small-to-mid box trade businesses. The BMW Plant supply-chain catchment provides deep covenant comfort across the market.",
       },
       {
         question: "Can we fund a multi-let Cowley industrial estate investment?",
@@ -903,7 +903,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Oxford Science Park",
     metaTitle: "Commercial Mortgages Oxford Science Park | Lab-Flex Office Finance, OX4",
     metaDescription:
-      "Commercial mortgages for Oxford Science Park (OX4 4GA), the Magdalen College JV lab and innovation cluster. Oxford Nanopore, Adaptimmune, Sophia Genetics, Oxford Instruments tenant base. Specialist life-sciences and Class E office lender panel.",
+      "Commercial mortgages for Oxford Science Park (OX4 4GA), the Magdalen College JV lab and innovation cluster. Oxford Nanopore, Adaptimmune, Sophia Genetics, Oxford Instruments tenant base. Specialist life-sciences and Class E office lenders.",
     hero: {
       h1: "Commercial Mortgages Oxford Science Park",
       lede:
@@ -913,7 +913,7 @@ export const areaDetails: Record<string, AreaDetail> = {
       h2: "The Oxford Science Park commercial property market",
       body: [
         "Oxford Science Park is the most significant single-site commercial property cluster in Oxfordshire by capital value and rental tone. Prime lab rents in 2026 sit at £55 to £70 per sq ft on the newest purpose-built specifications, with Class E office space ranging £40 to £55 per sq ft depending on floor plate and specification. Prime investment yields on let lab-flex sit at 5.5 to 6.5% on the strongest covenants and lease lengths, with Class E office investment trading at 6.0 to 7.0%. The tenant covenant strength across Oxford Nanopore, Adaptimmune, Sophia Genetics, Oxford Instruments and the wider innovation cluster supports tighter pricing than the broader Oxford commercial belt, though it remains noticeably wider than central London or core Cambridge.",
-        "Transactions split between purpose-built lab investment, Class E office investment, and the smaller-cap occupier purchases that happen on the OX4 4 ring around the park boundary. The deepest investment flow is institutional and private credit, with lot sizes typically £5M plus for whole-building lab acquisitions. The Class E office portion of the park, and the adjacent OX4 4 office stock just outside the park curtilage, supports a smaller-cap investment book in the £1.5M to £5M range that funds more comfortably through the mainstream commercial lender panel. Owner-occupier purchases by life-sciences operators buying their Class E or smaller-flex building on the periphery sit in the £1M to £4M bracket, EBITDA-led underwriting at 60 to 70% LTV.",
+        "Transactions split between purpose-built lab investment, Class E office investment, and the smaller-cap occupier purchases that happen on the OX4 4 ring around the park boundary. The deepest investment flow is institutional and private credit, with lot sizes typically £5M plus for whole-building lab acquisitions. The Class E office portion of the park, and the adjacent OX4 4 office stock just outside the park curtilage, supports a smaller-cap investment book in the £1.5M to £5M range that funds more comfortably through mainstream commercial lenders. Owner-occupier purchases by life-sciences operators buying their Class E or smaller-flex building on the periphery sit in the £1M to £4M bracket, EBITDA-led underwriting at 60 to 70% LTV.",
         "HM Land Registry residential transactions across the wider OX4 4 catchment confirm a structurally premium professional market, with recent files including OX4 4EE Maywood Road at £685,000. We use this as a directional signal on the depth of the professional and life-sciences workforce supporting the park ecosystem. Stamp duty applies at the commercial rates on every freehold commercial acquisition. The pure-lab investment market is a specialist routing that needs careful lender selection because mainstream commercial mortgage desks find pure lab harder to underwrite than Class E office.",
       ],
     },
@@ -962,7 +962,7 @@ export const areaDetails: Record<string, AreaDetail> = {
       {
         question: "Can we get a commercial mortgage on a purpose-built lab investment?",
         answer:
-          "Yes but the panel narrows. Mainstream commercial mortgage desks find pure-lab harder than Class E office because of specialist plant, M&E and dilapidations risk. £5M plus pure-lab investment typically routes via private credit, with Octopus Real Estate and ASK Partners active on Oxford Science Park and Begbroke life-sciences deals. Pricing 7.5 to 9.0% pa at 55 to 65% LTV.",
+          "Yes, but the lender pool narrows. Mainstream commercial mortgage desks find pure-lab harder than Class E office because of specialist plant, M&E and dilapidations risk. £5M plus pure-lab investment typically routes via private credit, with Octopus Real Estate and ASK Partners active on Oxford Science Park and Begbroke life-sciences deals. Pricing 7.5 to 9.0% pa at 55 to 65% LTV.",
       },
       {
         question: "What rate on a Class E office investment at the park?",
@@ -987,7 +987,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Begbroke and Oxford North",
     metaTitle: "Commercial Mortgages Begbroke and Oxford North | Innovation District Finance, OX5",
     metaDescription:
-      "Commercial mortgages for Begbroke and Oxford North (OX5, Cherwell District Council), the Oxford University-backed innovation district and mixed-use innovation campus. Specialist lab, life-sciences and institutional lender panel.",
+      "Commercial mortgages for Begbroke and Oxford North (OX5, Cherwell District Council), the Oxford University-backed innovation district and mixed-use innovation campus. Specialist lab, life-sciences and institutional lenders.",
     hero: {
       h1: "Commercial Mortgages Begbroke and Oxford North",
       lede:
@@ -1051,7 +1051,7 @@ export const areaDetails: Record<string, AreaDetail> = {
       {
         question: "Can we get a commercial mortgage on Begbroke lab investment?",
         answer:
-          "Yes for stabilised Class E office and smaller Class E and ancillary lots through the mainstream commercial panel. Major purpose-built lab investment in the £5M plus bracket typically routes via private credit and institutional forward funding, with Octopus Real Estate and ASK Partners active on Oxford life-sciences deals. Pricing 7.5 to 9.0% pa at 55 to 65% LTV on the specialist routing.",
+          "Yes for stabilised Class E office and smaller Class E and ancillary lots through mainstream commercial lenders. Major purpose-built lab investment in the £5M plus bracket typically routes via private credit and institutional forward funding, with Octopus Real Estate and ASK Partners active on Oxford life-sciences deals. Pricing 7.5 to 9.0% pa at 55 to 65% LTV on the specialist routing.",
       },
       {
         question: "When does meaningful investment activity start?",
@@ -1071,7 +1071,7 @@ export const areaDetails: Record<string, AreaDetail> = {
     name: "Westgate and Oxford Castle Quarter",
     metaTitle: "Commercial Mortgages Westgate Oxford and Castle Quarter | Specialist Broker, OX1",
     metaDescription:
-      "Commercial mortgages for Westgate Oxford and Oxford Castle Quarter (OX1), the Land Securities and Crown Estate retail flagship plus the Oxford Castle heritage leisure cluster. Specialist prime retail, hotel and F&B lender panel.",
+      "Commercial mortgages for Westgate Oxford and Oxford Castle Quarter (OX1), the Land Securities and Crown Estate retail flagship plus the Oxford Castle heritage leisure cluster. Specialist prime retail, hotel and F&B lenders.",
     hero: {
       h1: "Commercial Mortgages Westgate Oxford and Castle Quarter",
       lede:

@@ -78,7 +78,7 @@ export default function CaseStudiesPage() {
             </div>
             <p className="mt-8 text-xs text-gray-500">
               These are illustrative scenarios built from typical {loc} deal
-              structures and current panel pricing, not records of specific
+              structures and current market pricing, not records of specific
               completed transactions. Names, addresses and figures are
               composite and do not identify any borrower.
             </p>

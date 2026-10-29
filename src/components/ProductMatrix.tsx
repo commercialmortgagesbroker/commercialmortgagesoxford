@@ -107,7 +107,7 @@ export function ProductMatrix() {
               <em className="font-editorial italic text-[color:var(--color-accent)]"> with the numbers</em>.
             </h2>
             <p className="mt-6 text-base leading-relaxed text-[color:var(--color-muted)]">
-              Indicative ranges from live lender positions across our 90+ panel
+              Indicative ranges from live lender positions across the market
               as of mid‑2026. LTV, cover and rate move per asset class, lease
               quality and trading covenant; these are the typical bands.
             </p>

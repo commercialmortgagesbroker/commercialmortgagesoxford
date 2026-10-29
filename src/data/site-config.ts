@@ -7,9 +7,9 @@ export const siteConfig = {
   "county": "oxfordshire",
   "town": "oxford",
   "tagline": "Specialist commercial mortgages in Oxford",
-  "description": "Specialist commercial mortgage broker for Oxford, the Oxford science and research cluster and Oxfordshire. Owner-occupier, life sciences and lab investment, semi-commercial, portfolio and trading-business finance from a 90+ lender panel. Whole-of-market commercial mortgage advice, indicative terms in 48 hours, mid-2026 rates 6.0 to 9.0% pa.",
+  "description": "Specialist commercial mortgage broker for Oxford, the Oxford science and research cluster and Oxfordshire. Owner-occupier, life sciences and lab investment, semi-commercial, portfolio and trading-business finance from across the high-street, challenger and specialist lender market. Whole-of-market commercial mortgage advice, indicative terms in 48 hours, mid-2026 rates 6.0 to 9.0% pa.",
   "keyword": "commercial mortgages oxford",
-  "heroSubtitle": "Owner-occupier, investment, semi-commercial and trading-business commercial mortgages, sourced from a 90+ lender panel and structured around your Oxford asset. Indicative terms in 48 hours.",
+  "heroSubtitle": "Owner-occupier, investment, semi-commercial and trading-business commercial mortgages, sourced from across the high-street, challenger and specialist lender market and structured around your Oxford asset. Indicative terms in 48 hours.",
   "phone": "07595 366094",
   "email": "enquiries@commercialmortgagesoxford.co.uk",
   "leadEmail": "commercialmortgagesbroker@gmail.com",
@@ -35,7 +35,7 @@ export const siteConfig = {
   },
   "stats": [
     { "value": "£400M+", "label": "Arranged" },
-    { "value": "90+", "label": "Lenders" },
+    { "value": "25 yrs", "label": "Financial services, raising debt and equity" },
     { "value": "48hr", "label": "Decisions" },
     { "value": "75%", "label": "Max LTV" }
   ],

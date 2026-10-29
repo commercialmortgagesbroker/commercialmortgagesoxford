@@ -25,7 +25,7 @@ const phoneHref = `tel:${siteConfig.phone.replace(/\s/g, "")}`;
 export const metadata: Metadata = {
   title: `Commercial Mortgages Oxford | Specialist Oxford Commercial Mortgage Broker`,
   description:
-    "Commercial mortgages in Oxford from a specialist commercial mortgage broker. Owner-occupier, life sciences and lab investment, semi-commercial, portfolio refinance and trading-business commercial mortgages placed across a 90-plus lender panel. Indicative terms in 48 hours, mid-2026 Oxford commercial mortgage rates 6.0 to 9.0% pa.",
+    "Commercial mortgages in Oxford from a specialist commercial mortgage broker. Owner-occupier, life sciences and lab investment, semi-commercial, portfolio refinance and trading-business commercial mortgages placed across the high-street, challenger and specialist lenders whose criteria fit the deal. Indicative terms in 48 hours, mid-2026 Oxford commercial mortgage rates 6.0 to 9.0% pa.",
   alternates: { canonical: `https://${siteConfig.domain}` },
 };
 

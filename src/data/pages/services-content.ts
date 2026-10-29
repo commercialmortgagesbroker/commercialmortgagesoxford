@@ -42,9 +42,9 @@ export interface ServicesContent {
 
 export const servicesContent: ServicesContent = {
   hero: {
-    h1: "Commercial Mortgage Broker Oxford, 90+ Lenders",
+    h1: "Commercial Mortgage Broker Oxford, High-Street to Specialist Lenders",
     lede:
-      "Owner-occupier freeholds. Commercial investment with ICR-led underwriting. Semi-commercial shop-with-flat. Portfolio refinance for landlords carrying five-plus assets. Trading-business mortgages for pubs, hotels, care homes, dental, MOT and nurseries. Commercial remortgage. Bridging-to-let. Second-charge behind a senior facility. Eight products, one broker, a 90+ lender panel. Indicative terms in 48 hours. Commercial mortgages are unregulated and fall outside the Financial Conduct Authority's regulated mortgage perimeter, where a deal would require regulated permissions, we refer to a regulated firm.",
+      "Owner-occupier freeholds. Commercial investment with ICR-led underwriting. Semi-commercial shop-with-flat. Portfolio refinance for landlords carrying five-plus assets. Trading-business mortgages for pubs, hotels, care homes, dental, MOT and nurseries. Commercial remortgage. Bridging-to-let. Second-charge behind a senior facility. Eight products, one broker, the whole high-street, challenger and specialist lender market. Indicative terms in 48 hours. Commercial mortgages are unregulated and fall outside the Financial Conduct Authority's regulated mortgage perimeter, where a deal would require regulated permissions, we refer to a regulated firm.",
   },
 
   mapIntro: {
@@ -147,8 +147,8 @@ export const servicesContent: ServicesContent = {
   networkBand: {
     h2: "Available across the wider city network",
     paragraphs: [
-      "Every commercial mortgage product on this page is also available across our regional sister sites, Manchester, Birmingham, Sheffield, Liverpool, Newcastle, Nottingham, Bristol and beyond. One broker relationship, the same 90+ lender panel, genuine local market knowledge in each city.",
-      "Owner-occupier in Manchester, portfolio refinancing across Oxfordshire and the Midlands, a trading-business mortgage in Newcastle, or a commercial remortgage on a Bristol office, the same panel, the same diagnostic process, the same unregulated commercial product set.",
+      "Every commercial mortgage product on this page is also available across our regional sister sites, Manchester, Birmingham, Sheffield, Liverpool, Newcastle, Nottingham, Bristol and beyond. One broker relationship, the same high-street, challenger and specialist lender market, genuine local market knowledge in each city.",
+      "Owner-occupier in Manchester, portfolio refinancing across Oxfordshire and the Midlands, a trading-business mortgage in Newcastle, or a commercial remortgage on a Bristol office, the same lender market, the same diagnostic process, the same unregulated commercial product set.",
     ],
   },
 

@@ -48,7 +48,7 @@ export default function PrivacyPage() {
               <p className="mt-3">We use your personal information to:</p>
               <ul className="mt-3 list-disc space-y-2 pl-6">
                 <li>Respond to your enquiries and provide commercial mortgage broking services</li>
-                <li>Match your requirements with appropriate lenders from our panel</li>
+                <li>Match your requirements with appropriate lenders in the market</li>
                 <li>Process your application and facilitate the lending process</li>
                 <li>Send you relevant market updates and service information (with your consent)</li>
                 <li>Improve our website and services</li>
@@ -66,7 +66,7 @@ export default function PrivacyPage() {
             <div>
               <h2 className="font-heading text-xl font-bold text-primary">5. Data Sharing</h2>
               <p className="mt-3">
-                We may share your information with: lenders and financial institutions on our panel (with your explicit consent), professional advisors (solicitors, valuers) involved in your application, our CRM and technology providers who process data on our behalf, and regulatory bodies where required by law. We will never sell your personal data to third parties.
+                We may share your information with: lenders and financial institutions we approach on your behalf (with your explicit consent), professional advisors (solicitors, valuers) involved in your application, our CRM and technology providers who process data on our behalf, and regulatory bodies where required by law. We will never sell your personal data to third parties.
               </p>
             </div>
 

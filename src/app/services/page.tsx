@@ -17,7 +17,7 @@ const siteUrl = `https://${siteConfig.domain}`;
 
 export const metadata: Metadata = {
   title: `Commercial Mortgage Services ${loc} | Owner-Occupier, Investment, Semi-Commercial`,
-  description: `Commercial mortgage broker ${loc} offering owner-occupier, commercial investment, semi-commercial, portfolio refinance, trading-business and commercial remortgage. 90+ lender panel.`,
+  description: `Commercial mortgage broker ${loc} offering owner-occupier, commercial investment, semi-commercial, portfolio refinance, trading-business and commercial remortgage. High-street, challenger and specialist lenders.`,
   alternates: { canonical: `${siteUrl}/services` },
 };
 

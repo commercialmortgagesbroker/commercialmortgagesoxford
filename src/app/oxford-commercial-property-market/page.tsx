@@ -11,7 +11,7 @@
  * 8 named lenders are bolded (Shawbrook, InterBay Commercial, LendInvest,
  * Cynergy Bank, Lloyds, NatWest, Barclays, Santander). Allica Bank, HTB
  * (Hampshire Trust Bank) and Cambridge & Counties Bank are named but not
- * bolded as the wider Thames Valley specialist panel. Rates 6.0 to 9.0%
+ * bolded as the wider Thames Valley specialist lender pool. Rates 6.0 to 9.0%
  * pa overall. No FCA authorisation claims. Commercial mortgages are
  * unregulated.
  *
@@ -292,9 +292,8 @@ export default function OxfordCommercialPropertyMarket2026() {
                     runs 65 to 75% LTV. Lab and life sciences investment
                     is tighter at 60 to 70%. Semi-commercial routinely
                     up to 75%. Allica Bank, Hampshire Trust Bank and
-                    Cambridge &amp; Counties Bank are the active Thames
-                    Valley specialist names on the wider panel alongside
-                    the eight active lenders we lead with.
+                    Cambridge &amp; Counties Bank are among the active Thames Valley
+                    specialist names in this market. Naming a lender describes the market; it does not mean we have a relationship with it.
                   </span>
                 </li>
               </ul>
@@ -476,13 +475,9 @@ export default function OxfordCommercialPropertyMarket2026() {
                   of the market, where lender appetite sits in 2026,
                   what the rate range is across each product, and how
                   we read the Oxford pipeline through to the end of
-                  2027. The voice is first-person plural because we
-                  sit across deals every week, not because we are
-                  pretending to speak for anyone else. Where we name a
-                  lender, it is one of the eight on our active panel
-                  that we quote against routinely on Oxford deals, with
-                  the wider ninety-strong network sitting behind that
-                  for the specialist and life sciences cases.
+                  2027. The voice is first-person plural because this is
+                  our own reading of the market. Where we name a lender, it is to describe the
+                  market. Naming a lender describes the market; it does not mean we have a relationship with it.
                 </p>
                 <p>
                   Oxford is a small city in headcount terms and a
@@ -865,8 +860,8 @@ export default function OxfordCommercialPropertyMarket2026() {
                   <strong>Cynergy Bank</strong> stepping in where the
                   trading history is thinner. Allica Bank, Hampshire
                   Trust Bank and Cambridge &amp; Counties Bank are the
-                  active Thames Valley specialist names on the wider
-                  panel, picking up SME owner-occupier and
+                  active Thames Valley specialist names in the
+                  market, picking up SME owner-occupier and
                   semi-commercial cases on the science park ring and
                   the central professional services flank with strong
                   local-market familiarity.
@@ -1125,19 +1120,17 @@ export default function OxfordCommercialPropertyMarket2026() {
                   and <strong>Santander</strong> all carry credible
                   Oxford appetite into the prime science park and
                   central professional services flank. The challenger
-                  SME panel writes the bulk of the mid-market:{" "}
+                  SME lender pool writes the bulk of the mid-market:{" "}
                   <strong>Shawbrook</strong>,{" "}
                   <strong>InterBay Commercial</strong>,{" "}
                   <strong>LendInvest</strong> and{" "}
                   <strong>Cynergy Bank</strong> sit at the centre of
                   the specialist pool. Allica Bank, Hampshire Trust
                   Bank and Cambridge &amp; Counties Bank are the
-                  active Thames Valley specialist names on the wider
-                  panel, picking up SME owner-occupier, semi-commercial
-                  and portfolio cases across the catchment. The wider
-                  ninety-strong panel rounds out the appetite across
-                  challenger banks, specialists and private credit on
-                  the more complex cases.
+                  active Thames Valley specialist names in the
+                  market, picking up SME owner-occupier, semi-commercial
+                  and portfolio cases across the catchment. Other challenger banks, specialists and private credit lenders cover the more
+                  complex cases. Naming a lender describes the market; it does not mean we have a relationship with it.
                 </p>
                 <p>
                   We are part of a broader UK commercial mortgage
@@ -1154,7 +1147,7 @@ export default function OxfordCommercialPropertyMarket2026() {
                     our Oxfordshire commercial mortgage broker hub
                   </a>
                   , which sets out the parent brokerage&apos;s Oxford
-                  desk and the panel coverage across the wider
+                  desk and the lender coverage across the wider
                   Oxfordshire and Thames Valley footprint.
                 </p>
               </div>
@@ -1258,9 +1251,9 @@ export default function OxfordCommercialPropertyMarket2026() {
                 <p className="border-t border-[color:var(--color-rule)] bg-[color:var(--color-paper)] px-5 py-4 text-xs leading-relaxed text-[color:var(--color-muted)]">
                   Plus Allica Bank, Hampshire Trust Bank and Cambridge
                   &amp; Counties Bank as the active Thames Valley
-                  specialist names on the wider panel, alongside
-                  another 80 panel members across challenger banks,
-                  specialists and private credit. Rates indicative for
+                  specialist names in the market, alongside other
+                  challenger banks, specialists and private credit
+                  lenders. Naming a lender describes the market; it does not mean we have a relationship with it. Rates indicative for
                   mid-2026 Oxford primary product. Actual offers
                   depend on covenant, LTV, sector and term.
                 </p>
@@ -1525,11 +1518,8 @@ export default function OxfordCommercialPropertyMarket2026() {
                     details, the LTV target, a rough sense of the
                     trading position or rental income, and we will
                     take it from there. We shortlist three to five
-                    lenders from the eight on our active panel plus
-                    the wider ninety-strong network including Allica
-                    Bank, Hampshire Trust Bank and Cambridge &amp;
-                    Counties Bank as the active Thames Valley
-                    specialist names, run live appetite, and come
+                    of the high-street, challenger and specialist
+                    lenders whose criteria fit the deal, run live appetite, and come
                     back with structured terms covering rate, LTV,
                     term, fees and conditions inside 48 hours. If the
                     numbers do not work, you will know inside two

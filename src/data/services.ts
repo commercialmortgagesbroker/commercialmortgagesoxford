@@ -32,7 +32,7 @@ export const services: Service[] = [
 
 Lender underwriting tests EBITDA cover (trading profit against the mortgage payment) at 1.3–1.5×, with two years of clean filed accounts the standard minimum. In Oxford the typical owner-occupier facility is £150K–£3M, with the bulk of volume in the £500K–£1.5M bracket. Loan-to-value of 70–75% is routine for established businesses; deposits of 25–30% from accumulated retained profit are standard. Interest rates currently 6.0–7.5% pa for strong covenants, stretching to 9.0% for tighter cases.
 
-Term length is the most useful affordability lever, extending repayment from 15 to 20 years often clears the EBITDA test where rate alone will not. We model term, rate and LTV across the panel before submitting, so you see the trade-offs before legals. Stamp duty land tax (SDLT) on a commercial purchase runs at up to 5% on the slice above £250K and is payable by the buyer at completion.
+Term length is the most useful affordability lever, extending repayment from 15 to 20 years often clears the EBITDA test where rate alone will not. We model term, rate and LTV across the market before submitting, so you see the trade-offs before legals. Stamp duty land tax (SDLT) on a commercial purchase runs at up to 5% on the slice above £250K and is payable by the buyer at completion.
 
 This is unregulated commercial lending in almost all cases, a business borrowing against business premises, not a residential mortgage. Owner-occupier commercial mortgages fall outside the Financial Conduct Authority's regulated mortgage perimeter; where a deal would require regulated permissions we refer to a regulated firm. Active sectors in Oxford: dental and GP practices (Summertown and Headington clusters), accountancy and professional services, life-sciences and lab-enabled offices (Oxford Science Park, Begbroke and Oxford North), light industrial and trade-counter (Cowley and the Eastern Bypass corridor), pharmacy. Sector-specialist trades, care home, MOT, nursery, route through trading-business mortgages.`,
     keyFeatures: [
@@ -41,7 +41,7 @@ This is unregulated commercial lending in almost all cases, a business borrowing
       "Interest rates from 7.0% pa for strong covenants",
       "5–25 year repayment terms",
       "Limited company SPV and trading entity structures supported",
-      "90+ lender panel including high-street, challenger and specialist",
+      "High-street, challenger and specialist lenders considered",
     ],
     typicalTerms: [
       { label: "LTV", value: "Up to 75%" },
@@ -79,7 +79,7 @@ Active Oxford investment areas: city-centre office and retail around Carfax and 
       "Interest rates from 7.5% pa",
       "5–25 year repayment terms",
       "Limited company SPV / LLP / individual structures all supported",
-      "Whole-of-market benchmark across 90+ lenders",
+      "Benchmark across the high-street, challenger and specialist lenders whose criteria fit the deal",
     ],
     typicalTerms: [
       { label: "LTV", value: "Up to 75%" },
@@ -114,7 +114,7 @@ Active Oxford semi-commercial spines: Cowley Road in East Oxford, Walton Street 
     keyFeatures: [
       "Up to 75% loan-to-value on classic shop+flat archetypes",
       "Blended ICR ~145%",
-      "Specialist lender panel (InterBay Commercial, Shawbrook, LendInvest, Aldermore)",
+      "Specialist lender pool (InterBay Commercial, Shawbrook, LendInvest, Aldermore)",
       "Interest rates from 7.5% pa",
       "5–25 year repayment terms",
       "Active across all Oxford high-street parades",
@@ -186,7 +186,7 @@ Loan-to-value runs 60–70% typically, lower than pure investment because the as
 
 Different lenders dominate different sub-sectors: Cynergy Bank and ASK Partners on pubs; Shawbrook, Cambridge & Counties and Hampshire Trust on care; Hampshire Trust and Allica on dental; Together on MOT/garage; Aldermore and Cambridge & Counties on nursery. Refinancing existing trading-business mortgages (typically off a maturing 5-year fix) is a frequent reason to re-engage. Trading-business commercial lending is unregulated and sits outside the regulated mortgage perimeter, not a residential mortgage.`,
     keyFeatures: [
-      "Sector-specific specialist lender panel",
+      "Sector-specific specialist lender pool",
       "EBITDA / sector-metric driven underwriting",
       "Loan-to-value 60–70% typical",
       "15–25 year repayment terms",
@@ -216,7 +216,7 @@ Different lenders dominate different sub-sectors: Cynergy Bank and ASK Partners 
     title: "Commercial Remortgage",
     slug: "commercial-remortgage",
     shortDescription:
-      "Refinancing existing commercial debt, end-of-fix transition or capital release. ERC modelled. 90+ lender benchmark, interest rates from 7.0% pa.",
+      "Refinancing existing commercial debt, end-of-fix transition or capital release. ERC modelled. Benchmarked across high-street, challenger and specialist lenders, interest rates from 7.0% pa.",
     fullDescription: `Commercial remortgaging covers two distinct moments: end of fix (typical 5-year fix maturing into a different rate environment) and capital-raise refinancing (releasing equity from a property that has grown in value since the original draw).
 
 ERC (early repayment charge) handling is the first conversation. If you are inside an ERC window, the maths often still works, saving 1.5% on rate over a fresh five-year term outweighs an ERC of 3% of the redemption sum on most £1M+ facilities. We run the numbers both ways before recommending. Stamp duty land tax does not apply on a refinance (no transfer of ownership), which is part of why refinancing maths can work even with ERCs in the model.
@@ -225,7 +225,7 @@ For end-of-fix transitions, the underwriting story is usually clean, known asset
 
 Most Oxford remortgaging is taken out by a limited company SPV or trading entity. Owner-occupier and investment commercial remortgaging both sit outside the regulated mortgage perimeter in standard cases, unregulated commercial lending throughout.`,
     keyFeatures: [
-      "Whole-of-market benchmark across 90+ lenders",
+      "Benchmark across the high-street, challenger and specialist lenders whose criteria fit the deal",
       "ERC modelling and break-even analysis",
       "End-of-fix and capital-raise refinancing routes",
       "Loan-to-value up to 75%",
@@ -301,7 +301,7 @@ Second-charge commercial lending on business premises is unregulated and sits ou
     keyFeatures: [
       "Existing first-charge facility unaffected",
       "Combined LTV (first + second) up to 75%",
-      "Specialist lender panel, InterBay Commercial, Together, UTB",
+      "Specialist lender pool, InterBay Commercial, Together, UTB",
       "5–25 year repayment terms",
       "Useful when ERCs make full refinancing uneconomic",
       "5–7 weeks typical to completion",
